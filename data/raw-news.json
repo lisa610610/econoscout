@@ -1,72 +1,72 @@
 {
-  "fetched_at": "2026-11-19T09:13:42+08:00",
-  "total_collected": 30,
+  "fetched_at": "2026-11-19T09:43:14+08:00",
+  "total_collected": 178,
   "sources_status": [
     {
       "source": "GoogleNews",
       "topic": "宏观/物价",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "BingNews",
       "topic": "宏观/物价",
       "ok": true,
-      "count": 0
+      "count": 11
     },
     {
       "source": "GoogleNews",
       "topic": "宏观/物价",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "BingNews",
       "topic": "宏观/物价",
       "ok": true,
-      "count": 0
+      "count": 11
     },
     {
       "source": "GoogleNews",
       "topic": "宏观/物价",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "BingNews",
       "topic": "宏观/物价",
       "ok": true,
-      "count": 0
+      "count": 9
     },
     {
       "source": "GoogleNews",
       "topic": "宏观/物价",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "BingNews",
       "topic": "宏观/物价",
       "ok": true,
-      "count": 0
+      "count": 12
     },
     {
       "source": "GoogleNewsEN",
       "topic": "全球经济",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "GoogleNewsEN",
       "topic": "全球经济",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "GoogleNewsEN",
       "topic": "全球经济",
-      "ok": false,
-      "error": "URLError"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "36氪",
@@ -89,220 +89,220 @@
   ],
   "articles": [
     {
-      "title": "36氪研究院 | 2026年中国词元经济生态发展研究报告",
-      "url": "https://36kr.com/p/4075073010996352?f=rss",
-      "summary": "当前，人工智能正由技术突破走向规模化应用，智能经济已上升为国家战略。2025年8月，国务院印发《关于深入实施“人工智能+”行动的意见》（国发〔2025〕11号），提出到2027年新一代智能终端、智能体等应用普及率超70%；2026年政府工作报告提出“打造智能经济新形态”，智能体首次与智能终端并列作为“加快推广”对象写入报告。词元（Token）是人工智能大模型处理信息的最小语义单元，正在成为智能时代可计量、可定价、可交易的基础计量单位。电力以“度”计量，通信以“流量”计量，智能服务则以“词元”计量，词元为人工智能服务的计量、定价、交易和结算提供了统一标尺。",
-      "published_raw": "2026-11-18 17:46:06  +0800",
+      "title": "澳大利亚失业率意外升至4.9%，央行激进加息后就业市场进一步降温",
+      "url": "https://36kr.com/newsflashes/4075964862502020?f=rss",
+      "summary": "澳大利亚10月失业率意外上升，显示在澳大利亚央行为遏制通胀而激进加息后，劳动力市场进一步降温。澳大利亚统计局公布数据显示，失业率升至4.9%，高于市场预期的4.7%。就业人数减少4.35万，而分析师原本预计增加2.5万。澳大利亚央行本月初将利率上调至4.85%，创18年来最高水平，以遏制通胀。最新就业数据显示，更高的借贷成本正日益对劳动力市场构成压力，这可能有助于缓解令决策者担忧的通胀压力。根据澳大利亚央行最新经济预测，失业率预计将在2028年晚些时候升至5.1%的峰值，从而帮助缓解通胀压力。尽管今年失业率已经上升，但央行在11月3日发布的货币政策声明中",
+      "published_raw": "2026-11-19 09:40:40  +0800",
       "source": "36氪",
       "topic": "产业/科技",
-      "score": 3
+      "score": 23
     },
     {
-      "title": "拼多多旗下Temu与万事达卡扩大合作",
-      "url": "https://36kr.com/newsflashes/4075976561218438?f=rss",
-      "summary": "当地时间11月18日，拼多多旗下全球电商平台Temu与万事达卡宣布扩大合作，旨在改善消费者支付体验，并探索支持本地卖家的新方式。根据双方签署的谅解备忘录，双方将评估引入更多万事达卡解决方案，包括推出Click to Pay——该功能可让消费者在线支付时无需每次手动输入卡号信息。双方还将探索降低欺诈与交易误拒付的途径，并通过Mastercard Agent Pay​开拓智能体商业（agentic commerce）等新型支付体验。（界面）",
-      "published_raw": "2026-11-19 08:57:46  +0800",
-      "source": "36氪",
-      "topic": "产业/科技",
-      "score": 3
+      "title": "中美经济对比，3个关键点反差强烈，人民币回升美国通胀仍难摆脱",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe542a607748cc8d4b56e0ed4458c6&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A07TQY00&c=15947731159165178283&mkt=en-us",
+      "summary": "把2025年的几个关键经济数据并排放在一起看，中国和美国之间呈现出一种方向上的反差。不是某一个指标的高低，而是物价、出口、汇率三条线各自走出的轨迹，拼在一起会让人重新审视一些习以为常的判断。 物价：中国是“稳”，美国是“胀在关税上” 先看中国。2025年全年CPI与上年持平，扣除食品和能源的核心CPI上涨0.7%，食品价格同比下降1.5%。PPI全年累计下降2.6%。这组数据说明的不是“通缩”，而 ...",
+      "published_raw": "Fri, 13 Nov 2026 05:43:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 21
     },
     {
-      "title": "解决超纯净高温合金“卡脖子”问题，「航宇星瑞」完成超亿元A轮融资｜36氪首发",
-      "url": "https://36kr.com/p/4075111063376773?f=rss",
-      "summary": "高温合金是航空发动机、燃气轮机等装备的核心材料，用量可占整机重量的40%—60%，被誉为“先进发动机的基石”。 随着航空发动机、燃气轮机等装备需求的增加，国内高温合金行业市场规模快速上升，产量从2018年的2.2万吨增长到2025年的6.2万吨，年均复合增速约16%。但放量主要发生在中低端牌号，单晶叶片、粉末涡轮盘等高端产品的供给缺口仍在30%左右。 “十五五”规划将高品质高温合金列为新材料领域重点突破方向。国家能源局等部门《关于促进燃气轮机创新发展的指导意见》也提出，要提升产业链供应链韧性和安全水平，建成自主可控的“研发—制造—验证—维护”全产业链体系",
-      "published_raw": "2026-11-18 18:18:30  +0800",
-      "source": "36氪",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "美联储会议纪要释放加息信号 官员意见分歧明显",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe542b535544bcb5fa4a53c7d27158&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261119%2f49886464.html&c=8453695554533420050&mkt=en-us",
+      "summary": "美联储会议纪要释放加息信号 官员意见分歧明显。旧金山联储主席玛丽·戴利表示，美联储仍需进一步提高利率，以确保通胀逐步回落至2%的目标。她在圣路易斯联储举办的一场会议上通过视频连线提到，美国经济面临高度不确定性，包括关税政策、伊朗战争以及人工智能基础设施建设投资的未来走向均不明朗。 在这种环境下，美联储必须审慎行事，密切评估经济数据，并认真倾听企业和消费者的反馈。戴利支持继续采取渐进、审慎的方式，认 ...",
+      "published_raw": "Wed, 18 Nov 2026 11:26:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 18
     },
     {
-      "title": "硬氪首发丨玻璃基板装备企业获近亿元融资，英诺基金连续三轮加注",
-      "url": "https://36kr.com/p/4074564838659207?f=rss",
-      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，玻璃基板装备企业「深微芯创」连续完成三轮融资，累计近亿元。投资方包括深产投及老股东英诺基金等。其中，英诺基金连投三轮。本轮融资将主要用于核心装备研发、市场拓展及团队建设。 「深微芯创」成立于2026年，主要面向先进封装和光电融合领域，提供玻璃基板加工关键装备、核心工艺及成套技术方案。 公司创始人肖文博士拥有新加坡国立大学材料科学与工程博士学位，此前曾任全球半导体设备龙头企业产品技术负责人，并深度参与全球首条玻璃基板生产线建设，深度领导相关装备与工艺技术解决方案开发。 2024年，肖文入选国家级人才计划并回国创",
-      "published_raw": "2026-11-18 09:02:41  +0800",
-      "source": "36氪",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "呵护税期走款 央行开展7002亿元隔夜逆回购操作",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe54296a5b41c5905d8bef57b0e74d&url=https%3a%2f%2ffinance.china.com%2fjinrong%2f13004689%2f20261119%2f49886343.html&c=6130746097129314161&mkt=en-us",
+      "summary": "中国首席经济学家论坛国际金融研究院资深研究员刘涛告诉北京商报记者，近期央行逆回购操作呈现出“收长放短、精准微调”的显著特征。11月18日开展7002亿元隔夜逆回购并实现138亿元净回笼，实质上是税期后段的被动微调，而非主动收紧。其核心原因在于配合政策利率“换锚”改革，即引导DR001围绕1.25%的新政策利率中枢平稳运行，避免市场将操作机制调整误读为降息。",
+      "published_raw": "Wed, 18 Nov 2026 11:12:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 16
     },
     {
-      "title": "Anthropic IPO日本部分筹资30亿美元，居区间下限",
-      "url": "https://36kr.com/newsflashes/4075944035931012?f=rss",
-      "summary": "根据监管文件，Anthropic PBC作为其首次公开募股（IPO）的一部分，从日本投资者处筹集了约30亿美元，处于其计划筹资区间的下限。日本是少数几个散户投资者能够直接参与此次IPO的市场之一。这也为日本资本市场提供了急需的支撑。数据显示，距离2026年结束仅剩约一个月时间，今年以日元计价的IPO筹资额目前低于2011年以来的任何完整年份。继今年6月埃隆·马斯克旗下的SpaceX进行IPO并同样吸引日本资金后，Anthropic也推出了日本发售计划。这类被称为“无上市公开发行”的交易，提升了瑞穗金融集团作为全球交易协调人的知名度。（新浪财经）",
-      "published_raw": "2026-11-19 09:10:05  +0800",
-      "source": "36氪",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "央行开展7002亿元隔夜逆回购操作！呵护税期走款，平抑短端资金脉冲",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe54296a5b41c5905d8bef57b0e74d&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611183934168551.html&c=7530987132829407864&mkt=en-us",
+      "summary": "中国首席经济学家论坛国际金融研究院资深研究员刘涛告诉北京商报记者，近期央行逆回购操作呈现出“收长放短、精准微调”的显著特征。11月18日开展7002亿元隔夜逆回购并实现138亿元净回笼，实质上是税期后段的被动微调，而非主动收紧。其核心原因在于配合政策利率“换锚”改革，即引导DR001围绕1.25%的新政策利率中枢平稳运行，避免市场将操作机制调整误读为降息。",
+      "published_raw": "Tue, 17 Nov 2026 16:00:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 16
     },
     {
-      "title": "中信证券：牧业行业步入右侧，上行周期开启",
-      "url": "https://36kr.com/newsflashes/4075941952983943?f=rss",
-      "summary": "36氪获悉，中信证券研报表示，受益奶牛存栏去化、液奶需求企稳、乳品深加工产能释放，原奶供需改善，奶价终结五年下行周期。短期合同奶价10~11月淡季不淡，散奶价格同比上涨超30%，表明原奶供需改善节奏超市场预期。我们测算2027/28/29年原奶将会紧缺1%/紧缺4%/紧缺1%，2028年原奶供需将最为紧张。原奶周期进入上行通道，叠加肉价持续上涨，单头奶牛账面价值处于历史底部的头部牧业公司将会展现明显的盈利弹性，继续保持对牧业板块的推荐。",
-      "published_raw": "2026-11-19 09:04:19  +0800",
-      "source": "36氪",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "通缩幽灵挥之不去，中国3月份CPI和PPI指数仍呈收缩之势",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-s-weak-cpi-factory-gate-deflation-point-to-more-stimulus-20240411%2f7565642.html&c=13923475028768357345&mkt=en-us",
+      "summary": "中国3月的消费者价格指数（CPI）增幅低于预期，生产者价格指数（PPI）通缩持续存在，在需求依然疲软的情况下，中国当局的政策制定者面临着推出更多刺激措施的压力。 路透社的报道说，全球第二大经济体令人担忧的通货紧缩压力似乎正在缓慢缓解，但 ...",
+      "published_raw": "Thu, 11 Apr 2024 14:22:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 15
     },
     {
-      "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
-      "url": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Thu, 19 Nov 2026 00:36:04 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "中国9月CPI低于预期 PPI上涨难掩内需疲弱",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f10%2f14%2fn14869654.htm&c=8722525437934791767&mkt=en-us",
+      "summary": "中共国家统计局10月14日公布2026年9月居民消费价格指数（CPI）及工业生产者出厂价格指数（PPI）。CPI同比上涨0.9%，低于市场预期的1%；PPI同比上涨5.0%，涨幅较上月扩大1.2个百分点。表面上看，工业品价格回升加快，但外媒分析指出，这波涨价主要受到国际油价及大宗商品成本推动，消费端价格涨幅仍然温和，中国内需疲弱的问题并未因此消失。",
+      "published_raw": "Wed, 14 Oct 2026 12:39:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 14
     },
     {
-      "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
-      "url": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 23:56:47 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "王赫：CPI数据背后的三个中国经济真相",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f11%2f10%2fn14886245.htm&c=13816824628149617308&mkt=en-us",
+      "summary": "11月9日，中共国家统计局公布的数据显示：2026年10月份，全国居民消费价格指数（CPI）同比上涨0.7%，创下3个月新低；生产者价格指数（PPI）同比上涨5.7%，创下2022年6月以来的最高水平。本文对此组数据进行三点分析。",
+      "published_raw": "Tue, 10 Nov 2026 07:02:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 13
     },
     {
-      "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
-      "url": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "欢迎回到罪城 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 17:16:31 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe54296a5b41c5905d8bef57b0e74d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103057891_118622&c=11523090187121400464&mkt=en-us",
+      "summary": "经济观察网 据央行网站公告，11月18日以固定利率、数量招标方式开展了7002亿元隔夜逆回购操作，全额满足了一级交易商需求，操作利率1.25%，投标量7002亿元，中标量7002亿元。返回搜狐，查看更多 该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。",
+      "published_raw": "Wed, 18 Nov 2026 02:26:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 13
     },
     {
-      "title": "这届高校学生，为何选择用鸿蒙创新？",
-      "url": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "有想法就是入场券。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 10:45:36 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "美联储10月会议纪要：几乎所有官员认为仍需进一步加息，AI投资风险 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe542b535544bcb5fa4a53c7d27158&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34508203&c=1741524084736765574&mkt=en-us",
+      "summary": "当地时间11月18日，美联储公布10月货币政策会议纪要。 纪要显示，几乎所有与会者认为，在基准经济预测下，未来进一步加息可能是适当的，以确保通胀及时回到2%的目标水平。 一两位与会者还表示，如果即将公布的通胀数据不利，下次会议可以考虑加息超过25个基点。 10月27日至28日举行的联邦公开市场委员会（FOMC）会议决定，将联邦基金利率目标区间维持在3.75%至4%，该决议以10票赞成、2票反对通过 ...",
+      "published_raw": "Wed, 18 Nov 2026 09:57:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 13
     },
     {
-      "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
-      "url": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "希望国模也快快跟上啊 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 10:01:23 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "美联储官员放出迄今最鹰言论：真实利率目标明确，未来数月或加息 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe542b535544bcb5fa4a53c7d27158&url=https%3a%2f%2fwww.fx678.com%2fC%2f20261118%2f202611181044071712.html&c=11150693195195892694&mkt=en-us",
+      "summary": "汇通财经讯——圣路易斯联储主席阿尔贝托·穆萨莱姆周二表示，央行可能需要在明年年初上调基准利率多达四次。这位政策制定者在阿根廷发表讲话时指出，存在一种“不太可能但仍然可能发生”的情况，即未来无需再进一步加息。 汇通财经APP讯——圣路易斯联储主席阿尔贝托·穆萨莱姆于周二（11月17日）发表讲话，抛出目前美联储官员当中最为激进的观点之一。他提出，为抑制通胀，未来数月美联储最多可能实施四次加息。他在阿根 ...",
+      "published_raw": "Wed, 18 Nov 2026 02:54:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 13
     },
     {
-      "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
-      "url": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "从 AI 出片，走向 AI 交片 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 04:00:43 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "中国9月CPI、PPI及进出口数据将出炉；美联储经济状况褐皮书将公布丨一周前瞻 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2TG92dEpPNkVxai1ZTzhNVUF0LXFyOG90M0VNU1pmTlgtYWgxakVTNjBDc1VmeTF2WjV0bFUtZGQ0WmlER3YwdFhXNS1RNnRtUDZxekl3OFZYQzl3LThUVTRuNnBFZw?oc=5",
+      "summary": "中国9月CPI、PPI及进出口数据将出炉；美联储经济状况褐皮书将公布丨一周前瞻 东方财富",
+      "published_raw": "Mon, 12 Oct 2026 07:00:00 GMT",
+      "source": "GoogleNews",
+      "topic": "宏观/物价",
+      "score": 12
     },
     {
-      "title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
-      "url": "https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "Rimac 已经拿到了大结果。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 03:40:19 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "7月PPI同比降CPI持平 中国经济未走出通缩和“内卷”怪圈 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YcjIyR3BKaUstcFhfUk1KMTQ5REIxYVpfbzNjeGMxczVUN3FXVDZTcW1fTjkwYl8tNnVUWjRNeThsM0JzeHA5ZURBcm4wd3I1U2NYR0FWS3oyRnJpZE9sQ0w3cFVrRjdyMGc?oc=5",
+      "summary": "7月PPI同比降CPI持平 中国经济未走出通缩和“内卷”怪圈 联合早报",
+      "published_raw": "Sat, 09 Aug 2025 07:00:00 GMT",
+      "source": "GoogleNews",
+      "topic": "宏观/物价",
+      "score": 12
     },
     {
-      "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
-      "url": "https://www.ifanr.com/1690103?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 02:39:15 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "国新看台丨10月CPI和PPI走势如何？国家统计局这样说",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102208263_115495&c=4362353859323768424&mkt=en-us",
+      "summary": "国务院新闻办公室11月16日举行新闻发布会，介绍2026年10月份国民经济运行情况。 CPI继续保持温和上涨态势 10月份，全国居民消费价格(CPI)同比上涨0.7%，环比持平。分类别看，食品烟酒及在外餐饮价格同比下降1.6%，衣着价格上涨1.1%，居住价格下降0.3%，生活用品及服务价格上涨0.2%，交通通信价格上涨5.5%，教育文化娱乐价格上涨1.5%，医疗保健价格上涨2.4%，其他用品及服务 ...",
+      "published_raw": "Mon, 16 Nov 2026 06:21:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 12
     },
     {
-      "title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
-      "url": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "出走容易，回归难 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 00:39:56 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "中国8月CPI同比涨0.6% PPI同比降1.8% 中国面对通缩还是通胀？",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fyataibaodao%2fjingmao%2fhx1-chinas-consumer-prices-rise-in-august-09092024082711.html&c=3148812675677935615&mkt=en-us",
+      "summary": "整体CPI虽比上一季好，但这种经过校正的状况，仍趋近于零，甚至有可能是负的。 PPI下跌在扩大，更糟。 郑政秉说：“中国还可以拿出来炫耀的只有汽车产业，它也在衰退，不管电动车、传统柴油车都在衰退。",
+      "published_raw": "Sun, 08 Sep 2024 21:00:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 12
     },
     {
-      "title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
-      "url": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110% · TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏 · macOS 27.3 收紧 App 文件访问权限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Wed, 18 Nov 2026 00:32:49 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "新数据反映中国经济疲软加剧 政治局急开会谈明年经济部署",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fshangye%2fjingji%2f2024%2f12%2f09%2fchina-economy-cpi-ppi-slowdown%2f&c=3128886718957885078&mkt=en-us",
+      "summary": "在中共中央经济工作会议召开前夕，官方公布的反映消费力的CPI和影响企业经营的PPI等数据，均显示救市政策齐发后，中国经济仍持续疲软，已延迟召开的政治局会议突然召开，把明年经济工作列入会议重点。 11月没有召开的中共中央政治局会议，突然在周一(12 ...",
+      "published_raw": "Tue, 10 Dec 2024 10:12:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 12
     },
     {
-      "title": "Mac 收紧权限，苹果开始防着 AI 了",
-      "url": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "AI 越自由，人越麻烦 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Tue, 17 Nov 2026 10:00:27 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "中国9月CPI、PPI及进出口数据将出炉；美联储经济状况褐皮书将公布丨 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610123892169642.html&c=9282522149216258349&mkt=en-us",
+      "summary": "本周（10月12日—10月18日），国内方面，9月CPI同比、9月PPI同比、9月进出口同比等数据将公布，第140届广交会将开幕，A股三季报披露大幕将启；海外方面，美国9月CPI同比、美国9月核心CPI同比等数据将公布，美联储将公布经济状况褐皮书。 中国9月PPI同比 中国9月 ...",
+      "published_raw": "Mon, 12 Oct 2026 01:10:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 12
     },
     {
-      "title": "DeepSeek 不限额的用法，都在这里了 | 附指南",
-      "url": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "花钱接 API，导入历史记录 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Tue, 17 Nov 2026 08:51:24 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "央行7002亿隔夜逆回购“全额满足”，但净回笼了138亿",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe54296a5b41c5905d8bef57b0e74d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103215884_122989342&c=9141715395476655967&mkt=en-us",
+      "summary": "11月18日，央行以固定利率、数量招标方式开展7002亿元隔夜逆回购操作，利率1.25%，全额满足一级交易商需求。当日有7140亿元隔夜逆回购到期，单日实现净回笼138亿元。 这是隔夜逆回购“换锚”以来，首次出现“全额满足但净回笼”的组合。 138亿的净回笼，不是收紧信号 138亿的规模，放在万亿级的操作体量里几乎可以忽略。但它的“方向”值得拆开看。 东方金诚首席宏观分析师王青的解读是：18日是本 ...",
+      "published_raw": "Wed, 18 Nov 2026 07:46:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 11
     },
     {
-      "title": "除了人脸解锁，iPhone Duo 2 还值得哪些升级？",
-      "url": "https://www.ifanr.com/1690009?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "那我缺的实体 SIM 卡这一块谁给我补啊 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Tue, 17 Nov 2026 04:00:26 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "隔夜逆回购操作常态化，央行利率调控迎新变",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe54296a5b41c5905d8bef57b0e74d&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202608173843516946.html&c=14453576191976235594&mkt=en-us",
+      "summary": "过去几周，货币市场消息不断。7月20日，全国首单DR基准利率贷款落地；8月11日起，公开市场7天期逆回购连续零操作；8月14日、8月17日，超9000亿元隔夜逆回购落地。近日人民银行发布的《2026年第二季度中国货币政策执行报告》（以下简称《报告》）中，更是 ...",
+      "published_raw": "Mon, 17 Aug 2026 13:46:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 11
     },
     {
-      "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
-      "url": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "一人犯错，全员受罚。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Tue, 17 Nov 2026 03:22:08 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "CPI与PPI“剪刀差”有所扩大 国家统计局回应",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=http%3a%2f%2fwww.ce.cn%2fxwzx%2fgnsz%2fgdxw%2f202610%2ft20261019_3263858.shtml&c=13974985597626649404&mkt=en-us",
+      "summary": "中国经济网北京10月19日讯（记者 杨淼）10月19日，国新办就2026年前三季度国民经济运行情况举行新闻发布会。针对9月PPI涨幅扩大、上游成本向下游传导、制造业企业盈利等市场关切，国家统计局新闻发言人、国民经济综合统计司负责人王冠华在会上作出回应。",
+      "published_raw": "Mon, 19 Oct 2026 07:44:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 10
     },
     {
-      "title": "微软全球大宕机，AI 怎么又成了背锅侠",
-      "url": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "微软宕机与美国航班停飞，背后都是 AI 失控吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "published_raw": "Tue, 17 Nov 2026 02:23:50 +0000",
-      "source": "爱范儿",
-      "topic": "产业/科技",
-      "score": 1
+      "title": "外媒称中国经济再现积极迹象：4月PPI数据抢眼",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe5428d80848109bcc612f15bfa1ff&url=https%3a%2f%2fnews.ifeng.com%2fc%2f7fcwJyXRlGm&c=13245344728293418431&mkt=en-us",
+      "summary": "核心提示：今年3月经济数据走强使人们认为中国经济将探底回升。但迄今为止喜忧参半的4月数据以及不断攀升的负债水平，让各方怀疑任何复苏是否能经事实证明具有可持续性。 参考消息网5月11日报道 外媒称，中国5月10日公布的官方数据显示，4月工业生产者 ...",
+      "published_raw": "Wed, 11 May 2016 02:38:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 10
     },
     {
-      "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
-      "url": "https://36kr.com/p/4075322592187524?f=rss",
-      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，镁伽科技已完成新一轮近2亿美元融资。本轮融资由阿曼苏丹国主权财富基金阿曼投资局（OIA）参与投资，亚投资本、Granite Asia、创新工场等老股东加注，招银国际、苏创投、三江招商集团等机构跟投，覆盖国际主权资本、头部金融资本及地方国资产业资本等。 当前，AI for Science想要真正跑通绕不开一个底层问题：数据。成规模、高质量、可复用的科研数据目前仍是稀缺资源，而国内绝大多数生命科学实验室的设备和耗材仍不具备大规模、一致性产生数据的能力。 镁伽创始人、首席执行官黄瑜清曾将其形容为“科学家们对数据日益增",
-      "published_raw": "2026-11-19 08:30:00  +0800",
-      "source": "36氪",
-      "topic": "产业/科技",
-      "score": 0
+      "title": "央行出手！2000亿元买断式逆回购来了",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe54296a5b41c5905d8bef57b0e74d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A0D3VN00&c=12725618866081675823&mkt=en-us",
+      "summary": "11月13日，中国人民银行发布公开市场买断式逆回购招标公告称，为保持银行体系流动性充裕，2026年11月16日，将以固定数量、利率招标、多重价位中标方式开展2000亿元买断式逆回购操作，期限为6个月（180天），到期日为2027年5月15日（遇节假日顺延）。 由于本月有3000亿元6个月期买断式逆回购到期，11月16日操作后将净回笼1000亿元。同时，由于本月3个月期买断式逆回购已缩量2000亿元 ...",
+      "published_raw": "Fri, 13 Nov 2026 11:48:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 10
     },
     {
-      "title": "8点1氪丨Anthropic IPO定价83美元；iPhone Duo铰链风波升级；浑水宣布做空英伟达",
-      "url": "https://36kr.com/p/4075920892581000?f=rss",
-      "summary": "今日热点导览 OpenAI发布GPT-6.2 Astra，GPT-6.2双模型分层定价 董明珠APEC现场寻找合作机会，称格力研发机器人十几年了 马斯克：预计SpaceX不会向OpenAI出售任何算力 大疆Osmo Pocket 4系列涨价，最高涨560元 三星电机与英伟达扩大在AI芯片组件方面的合作 TOP 3大新闻 Anthropic IPO定价每股83美元 当地时间11月18日，Anthropic将其IPO发行价定为每股83美元，这一定价高于该公司此前的预估。该公司将于周四在纳斯达克开始交易。首席执行官达里奥·阿莫代伊及其他联合创始人将敲响纳斯达克",
-      "published_raw": "2026-11-19 08:01:22  +0800",
-      "source": "36氪",
-      "topic": "产业/科技",
-      "score": 0
+      "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe54296a5b41c5905d8bef57b0e74d&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-11-13%2fdoc-iniyrazx3556332.shtml&c=7322849602205528711&mkt=en-us",
+      "summary": "财联社11月13日讯（记者 曹韵仪） 今日央行宣布将开展2000亿元买断式逆回购操作，由于11月16日有3000亿元6个月期买断式逆回购到期。这意味着11月6个月期买断式逆回购为缩量续作，缩量规模1000亿元。 业内人士表示，央行本月缩量续作的原因在于近期市场流动性偏松，央行连续实施中期资金净回笼，有助于遏制资金利率下行势头。“值得注意的是，后续货币市场利率更多表现为对政策利率调整的传递，应更多关 ...",
+      "published_raw": "Fri, 13 Nov 2026 05:55:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 10
     },
     {
-      "title": "我们为什么期待「GTA6」",
-      "url": "https://36kr.com/p/4074910832137347?f=rss",
-      "summary": "文丨刘士武 2026年11月19日，《Grand Theft Auto VI(GTA6)》将正式解禁，登陆PS5和Xbox Series X|S。这款玩家等待了十多年的顶级3A游戏，在上线前就取得了超过10亿美元销售额的成绩。 这篇文章发布的时候，游戏还有数小时正式解禁。我想在这个时刻复盘一下，GTA为何是游戏史最伟大的系列作品之一，系列的未来将会如何走下去，以及： 我们为什么期待「那个游戏6」。 GTA6 01 划时代的游戏作品 2001年10月，GTA3发售。第二年，我在家里的第一台电脑上装上了这款游戏。虽然后来也有了PS2，但我几乎没在PS2上玩这",
-      "published_raw": "2026-11-18 14:58:05  +0800",
-      "source": "36氪",
-      "topic": "产业/科技",
-      "score": 0
+      "title": "政策利率“换锚”迎来关键一步 央行：隔夜逆回购操作将于每个工作 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe54296a5b41c5905d8bef57b0e74d&url=https%3a%2f%2fforex.eastmoney.com%2fa%2f202610313917324529.html&c=12231852799444984874&mkt=en-us",
+      "summary": "政策利率“换锚”迎来关键一步。中国人民银行10月30日发布公开市场业务公告称，为进一步优化短端利率调控机制，从2026年11月2日起，公开市场操作进行三项调整。 首先，每个工作日开展隔夜逆回购操作招标，采用固定利率、数量招标。目前操作利率为1.25%。",
+      "published_raw": "Fri, 30 Oct 2026 17:00:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 10
     }
   ]
 }
