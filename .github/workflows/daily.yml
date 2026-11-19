@@ -1,0 +1,73 @@
+name: 每日经济简报更新
+
+# 每天北京时间 08:00 自动抓取 + 生成 + 发布
+# 北京时间 08:00 = UTC 00:00
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  # 允许在 Actions 页面手动点"Run workflow"测试
+  workflow_dispatch:
+
+# 最小权限：只读写仓库内容，够提交简报即可
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  build-brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # 抓取器与生成器均零第三方依赖，无需 pip install
+      - name: 步骤 1 · 抓取候选新闻（多源容错）
+        run: python scripts/fetch_news.py --verbose
+
+      - name: 步骤 2 · 调用大模型生成结构化导读
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL }}
+        run: python scripts/generate_brief.py --verbose
+
+      - name: 步骤 3 · 校验简报文件确实更新了
+        id: check
+        run: |
+          if [ ! -f data/briefs.json ]; then
+            echo "briefs.json 不存在，中止提交"
+            exit 1
+          fi
+          python -c "
+          import json,sys
+          d=json.load(open('data/briefs.json',encoding='utf-8'))
+          assert isinstance(d,list) and len(d)>0, '简报列表为空'
+          n=d[0]
+          assert len(n.get('news',[]))==3, '新闻不是3条'
+          for it in n['news']:
+            for k in ['title','one','happened','why','concept','conceptFull','life','think','source']:
+              assert k in it, '缺字段 '+k
+            assert it['tag'] in ('fact','infer','view'), 'tag非法'
+          print('校验通过：',len(d),'期，首期主题',n['theme'])
+          "
+
+      - name: 步骤 4 · 提交并推送更新
+        run: |
+          git config user.name "EconoScout Bot"
+          git config user.email "econoscout-bot@users.noreply.github.com"
+          git add data/briefs.json data/raw-news.json
+          if git diff --cached --quiet; then
+            echo "本期无变化，跳过提交"
+          else
+            git commit -m "每日简报更新 $(date -u +%Y-%m-%d)"
+            git push
+          fi

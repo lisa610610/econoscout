@@ -1,0 +1,308 @@
+{
+  "fetched_at": "2026-11-19T09:13:42+08:00",
+  "total_collected": 30,
+  "sources_status": [
+    {
+      "source": "GoogleNews",
+      "topic": "宏观/物价",
+      "ok": false,
+      "error": "URLError"
+    },
+    {
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "GoogleNews",
+      "topic": "宏观/物价",
+      "ok": false,
+      "error": "URLError"
+    },
+    {
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "GoogleNews",
+      "topic": "宏观/物价",
+      "ok": false,
+      "error": "URLError"
+    },
+    {
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "GoogleNews",
+      "topic": "宏观/物价",
+      "ok": false,
+      "error": "URLError"
+    },
+    {
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "source": "GoogleNewsEN",
+      "topic": "全球经济",
+      "ok": false,
+      "error": "URLError"
+    },
+    {
+      "source": "GoogleNewsEN",
+      "topic": "全球经济",
+      "ok": false,
+      "error": "URLError"
+    },
+    {
+      "source": "GoogleNewsEN",
+      "topic": "全球经济",
+      "ok": false,
+      "error": "URLError"
+    },
+    {
+      "source": "36氪",
+      "topic": "产业/科技",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "source": "Yahoo财经",
+      "topic": "全球经济",
+      "ok": false,
+      "error": "HTTPError"
+    }
+  ],
+  "articles": [
+    {
+      "title": "36氪研究院 | 2026年中国词元经济生态发展研究报告",
+      "url": "https://36kr.com/p/4075073010996352?f=rss",
+      "summary": "当前，人工智能正由技术突破走向规模化应用，智能经济已上升为国家战略。2025年8月，国务院印发《关于深入实施“人工智能+”行动的意见》（国发〔2025〕11号），提出到2027年新一代智能终端、智能体等应用普及率超70%；2026年政府工作报告提出“打造智能经济新形态”，智能体首次与智能终端并列作为“加快推广”对象写入报告。词元（Token）是人工智能大模型处理信息的最小语义单元，正在成为智能时代可计量、可定价、可交易的基础计量单位。电力以“度”计量，通信以“流量”计量，智能服务则以“词元”计量，词元为人工智能服务的计量、定价、交易和结算提供了统一标尺。",
+      "published_raw": "2026-11-18 17:46:06  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 3
+    },
+    {
+      "title": "拼多多旗下Temu与万事达卡扩大合作",
+      "url": "https://36kr.com/newsflashes/4075976561218438?f=rss",
+      "summary": "当地时间11月18日，拼多多旗下全球电商平台Temu与万事达卡宣布扩大合作，旨在改善消费者支付体验，并探索支持本地卖家的新方式。根据双方签署的谅解备忘录，双方将评估引入更多万事达卡解决方案，包括推出Click to Pay——该功能可让消费者在线支付时无需每次手动输入卡号信息。双方还将探索降低欺诈与交易误拒付的途径，并通过Mastercard Agent Pay​开拓智能体商业（agentic commerce）等新型支付体验。（界面）",
+      "published_raw": "2026-11-19 08:57:46  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 3
+    },
+    {
+      "title": "解决超纯净高温合金“卡脖子”问题，「航宇星瑞」完成超亿元A轮融资｜36氪首发",
+      "url": "https://36kr.com/p/4075111063376773?f=rss",
+      "summary": "高温合金是航空发动机、燃气轮机等装备的核心材料，用量可占整机重量的40%—60%，被誉为“先进发动机的基石”。 随着航空发动机、燃气轮机等装备需求的增加，国内高温合金行业市场规模快速上升，产量从2018年的2.2万吨增长到2025年的6.2万吨，年均复合增速约16%。但放量主要发生在中低端牌号，单晶叶片、粉末涡轮盘等高端产品的供给缺口仍在30%左右。 “十五五”规划将高品质高温合金列为新材料领域重点突破方向。国家能源局等部门《关于促进燃气轮机创新发展的指导意见》也提出，要提升产业链供应链韧性和安全水平，建成自主可控的“研发—制造—验证—维护”全产业链体系",
+      "published_raw": "2026-11-18 18:18:30  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "硬氪首发丨玻璃基板装备企业获近亿元融资，英诺基金连续三轮加注",
+      "url": "https://36kr.com/p/4074564838659207?f=rss",
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，玻璃基板装备企业「深微芯创」连续完成三轮融资，累计近亿元。投资方包括深产投及老股东英诺基金等。其中，英诺基金连投三轮。本轮融资将主要用于核心装备研发、市场拓展及团队建设。 「深微芯创」成立于2026年，主要面向先进封装和光电融合领域，提供玻璃基板加工关键装备、核心工艺及成套技术方案。 公司创始人肖文博士拥有新加坡国立大学材料科学与工程博士学位，此前曾任全球半导体设备龙头企业产品技术负责人，并深度参与全球首条玻璃基板生产线建设，深度领导相关装备与工艺技术解决方案开发。 2024年，肖文入选国家级人才计划并回国创",
+      "published_raw": "2026-11-18 09:02:41  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "Anthropic IPO日本部分筹资30亿美元，居区间下限",
+      "url": "https://36kr.com/newsflashes/4075944035931012?f=rss",
+      "summary": "根据监管文件，Anthropic PBC作为其首次公开募股（IPO）的一部分，从日本投资者处筹集了约30亿美元，处于其计划筹资区间的下限。日本是少数几个散户投资者能够直接参与此次IPO的市场之一。这也为日本资本市场提供了急需的支撑。数据显示，距离2026年结束仅剩约一个月时间，今年以日元计价的IPO筹资额目前低于2011年以来的任何完整年份。继今年6月埃隆·马斯克旗下的SpaceX进行IPO并同样吸引日本资金后，Anthropic也推出了日本发售计划。这类被称为“无上市公开发行”的交易，提升了瑞穗金融集团作为全球交易协调人的知名度。（新浪财经）",
+      "published_raw": "2026-11-19 09:10:05  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "中信证券：牧业行业步入右侧，上行周期开启",
+      "url": "https://36kr.com/newsflashes/4075941952983943?f=rss",
+      "summary": "36氪获悉，中信证券研报表示，受益奶牛存栏去化、液奶需求企稳、乳品深加工产能释放，原奶供需改善，奶价终结五年下行周期。短期合同奶价10~11月淡季不淡，散奶价格同比上涨超30%，表明原奶供需改善节奏超市场预期。我们测算2027/28/29年原奶将会紧缺1%/紧缺4%/紧缺1%，2028年原奶供需将最为紧张。原奶周期进入上行通道，叠加肉价持续上涨，单头奶牛账面价值处于历史底部的头部牧业公司将会展现明显的盈利弹性，继续保持对牧业板块的推荐。",
+      "published_raw": "2026-11-19 09:04:19  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
+      "url": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Thu, 19 Nov 2026 00:36:04 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+      "url": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 23:56:47 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
+      "url": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "欢迎回到罪城 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 17:16:31 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "这届高校学生，为何选择用鸿蒙创新？",
+      "url": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "有想法就是入场券。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 10:45:36 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+      "url": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "希望国模也快快跟上啊 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 10:01:23 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
+      "url": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "从 AI 出片，走向 AI 交片 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 04:00:43 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
+      "url": "https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "Rimac 已经拿到了大结果。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 03:40:19 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+      "url": "https://www.ifanr.com/1690103?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 02:39:15 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
+      "url": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "出走容易，回归难 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 00:39:56 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
+      "url": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110% · TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏 · macOS 27.3 收紧 App 文件访问权限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Wed, 18 Nov 2026 00:32:49 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "Mac 收紧权限，苹果开始防着 AI 了",
+      "url": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "AI 越自由，人越麻烦 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Tue, 17 Nov 2026 10:00:27 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "DeepSeek 不限额的用法，都在这里了 | 附指南",
+      "url": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "花钱接 API，导入历史记录 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Tue, 17 Nov 2026 08:51:24 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "除了人脸解锁，iPhone Duo 2 还值得哪些升级？",
+      "url": "https://www.ifanr.com/1690009?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "那我缺的实体 SIM 卡这一块谁给我补啊 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Tue, 17 Nov 2026 04:00:26 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+      "url": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "一人犯错，全员受罚。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Tue, 17 Nov 2026 03:22:08 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "微软全球大宕机，AI 怎么又成了背锅侠",
+      "url": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "微软宕机与美国航班停飞，背后都是 AI 失控吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published_raw": "Tue, 17 Nov 2026 02:23:50 +0000",
+      "source": "爱范儿",
+      "topic": "产业/科技",
+      "score": 1
+    },
+    {
+      "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
+      "url": "https://36kr.com/p/4075322592187524?f=rss",
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，镁伽科技已完成新一轮近2亿美元融资。本轮融资由阿曼苏丹国主权财富基金阿曼投资局（OIA）参与投资，亚投资本、Granite Asia、创新工场等老股东加注，招银国际、苏创投、三江招商集团等机构跟投，覆盖国际主权资本、头部金融资本及地方国资产业资本等。 当前，AI for Science想要真正跑通绕不开一个底层问题：数据。成规模、高质量、可复用的科研数据目前仍是稀缺资源，而国内绝大多数生命科学实验室的设备和耗材仍不具备大规模、一致性产生数据的能力。 镁伽创始人、首席执行官黄瑜清曾将其形容为“科学家们对数据日益增",
+      "published_raw": "2026-11-19 08:30:00  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 0
+    },
+    {
+      "title": "8点1氪丨Anthropic IPO定价83美元；iPhone Duo铰链风波升级；浑水宣布做空英伟达",
+      "url": "https://36kr.com/p/4075920892581000?f=rss",
+      "summary": "今日热点导览 OpenAI发布GPT-6.2 Astra，GPT-6.2双模型分层定价 董明珠APEC现场寻找合作机会，称格力研发机器人十几年了 马斯克：预计SpaceX不会向OpenAI出售任何算力 大疆Osmo Pocket 4系列涨价，最高涨560元 三星电机与英伟达扩大在AI芯片组件方面的合作 TOP 3大新闻 Anthropic IPO定价每股83美元 当地时间11月18日，Anthropic将其IPO发行价定为每股83美元，这一定价高于该公司此前的预估。该公司将于周四在纳斯达克开始交易。首席执行官达里奥·阿莫代伊及其他联合创始人将敲响纳斯达克",
+      "published_raw": "2026-11-19 08:01:22  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 0
+    },
+    {
+      "title": "我们为什么期待「GTA6」",
+      "url": "https://36kr.com/p/4074910832137347?f=rss",
+      "summary": "文丨刘士武 2026年11月19日，《Grand Theft Auto VI(GTA6)》将正式解禁，登陆PS5和Xbox Series X|S。这款玩家等待了十多年的顶级3A游戏，在上线前就取得了超过10亿美元销售额的成绩。 这篇文章发布的时候，游戏还有数小时正式解禁。我想在这个时刻复盘一下，GTA为何是游戏史最伟大的系列作品之一，系列的未来将会如何走下去，以及： 我们为什么期待「那个游戏6」。 GTA6 01 划时代的游戏作品 2001年10月，GTA3发售。第二年，我在家里的第一台电脑上装上了这款游戏。虽然后来也有了PS2，但我几乎没在PS2上玩这",
+      "published_raw": "2026-11-18 14:58:05  +0800",
+      "source": "36氪",
+      "topic": "产业/科技",
+      "score": 0
+    }
+  ]
+}
