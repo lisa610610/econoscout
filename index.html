@@ -435,7 +435,7 @@ PUB[_pk] = "wbpk_rUIcIynL515OF6bXQn4vyD_wFvE9JptLsVEtL1IWJm9vocRH5076Ixc";
 /* 自建问答代理（Cloudflare Workers）地址。部署 Worker 后把得到的
    https://xxx.workers.dev 填入下方 CHAT_PROXY_URL 即可启用。
    留空则自动回退到上面的免密钥云服务（在原发布域名下仍可用）。
-   注意：这里只是公开的服务地址，不含任何 Key。 */
+   注意：这里只是公开的服务地址，不含任何密钥。 */
 const CHAT_PROXY_URL = "https://1536095350-59fed5z28t.ap-guangzhou.tencentcscf.com";
 
 /* 保底：github.io 是纯静态域名，自建代理在该域名下不可达。
@@ -868,7 +868,7 @@ if(IS_GITHUB_IO){
 $("#chatFab").addEventListener("click", ()=>panel.classList.toggle("hidden"));
 $("#cpClose").addEventListener("click", ()=>panel.classList.add("hidden"));
 document.querySelectorAll(".cp-quick button").forEach(b=>b.addEventListener("click", ()=>{ cpText.value = b.textContent; sendChat(); }));
-cpText.addEventListener("keydown", e=>{ if(e.key==="Enter" && !e.shiftKey){ e.preventDefault(); sendChat(); } });
+cpText.addEventListener("keydown", e=>{ if(e.key==="Enter" && !e.getModifierState("Shift")){ e.preventDefault(); sendChat(); } });
 cpSend.addEventListener("click", sendChat);
 
 const SYSTEM = "你是 EconoScout，面向想看懂经济新闻的普通人的 AI 导读员。规则：只基于用户给出的新闻内容或明确事实做解读，不编造事实、数据、来源；严格区分可核查事实、经济机制解释、合理推断与观点判断；不把相关性说成因果；不给投资建议；专业术语第一次出现用大白话解释并配一个生活例子；回答简洁、客观、友好，控制在 250 字以内。";
