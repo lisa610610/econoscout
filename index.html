@@ -432,6 +432,12 @@ const PUB = {
 };
 PUB[_pk] = "wbpk_rUIcIynL515OF6bXQn4vyD_wFvE9JptLsVEtL1IWJm9vocRH5076Ixc";
 
+/* 自建问答代理（Cloudflare Workers）地址。部署 Worker 后把得到的
+   https://xxx.workers.dev 填入下方 CHAT_PROXY_URL 即可启用。
+   留空则自动回退到上面的免密钥云服务（在原发布域名下仍可用）。
+   注意：这里只是公开的服务地址，不含任何 Key。 */
+const CHAT_PROXY_URL = "";
+
 /* ---------- 真实新闻简报数据（3 组） ---------- */
 /* 内嵌兜底数据：网络失败时仍能展示真实简报（由 seed-briefs.json 同步而来） */
 const FALLBACK_SETS = [
@@ -872,31 +878,107 @@ async function ensureModel(){
   if(!m) throw new Error("no model");
   chatModel = m; return m;
 }
+/* 把当前这期简报压成一段上下文，让 AI 能回答"这条新闻什么意思" */
+function briefContext(){
+  const d = REAL_SETS[setIndex];
+  if(!d || !d.news) return "";
+  const lines = d.news.map((n,i)=>`${i+1}. ${n.title}｜一句话：${n.one}｜为什么重要：${n.why}`);
+  return "\n\n【当前这期简报（2026年，用户可能针对它提问）】主题：" + d.theme +
+         "\n" + lines.join("\n") + "\n（若用户问题与以上新闻无关，就按通用经济知识回答。）";
+}
+
+/* 走自建代理的流式问答；返回 true 表示成功，false 表示需要回退 */
+async function chatViaProxy(messages, holder){
+  controller = new AbortController();
+  const resp = await fetch(CHAT_PROXY_URL, {
+    method:"POST",
+    headers:{ "Content-Type":"application/json" },
+    body: JSON.stringify({ messages }),
+    signal: controller.signal
+  });
+  if(!resp.ok) throw new Error("proxy HTTP " + resp.status);
+  if(!resp.body) throw new Error("proxy no stream");
+  const reader = resp.body.getReader();
+  const decoder = new TextDecoder();
+  let buffer = "", full = "";
+  while(true){
+    const { done, value } = await reader.read();
+    if(done) break;
+    buffer += decoder.decode(value, { stream:true });
+    const parts = buffer.split("\n\n");
+    buffer = parts.pop() || "";
+    for(const p of parts){
+      const t = p.trim();
+      if(!t.startsWith("data:")) continue;
+      const data = t.slice(5).trim();
+      if(data === "[DONE]") continue;
+      try{
+        const obj = JSON.parse(data);
+        if(obj.error){ throw new Error(obj.error); }
+        if(obj.content){ full += obj.content; holder.textContent = full; msgsEl.scrollTop = msgsEl.scrollHeight; }
+      }catch(e){ if(e.message && e.message.indexOf("proxy")===0) throw e; /* 忽略解析噪声 */ }
+    }
+  }
+  if(!full) throw new Error("proxy empty");
+  chatHistory.push({ role:"assistant", content: full });
+  return true;
+}
+
 async function sendChat(){
   if(busy) return;
   const text = cpText.value.trim(); if(!text) return;
   cpText.value = ""; addMsg(text, "me");
-  if(!cloud && !initCloud()){ addMsg("智能问答需要联网加载服务组件，当前无法连接。简报功能不受影响。", "ai"); return; }
   busy = true; cpSend.disabled = true; cpSend.textContent = "…";
   const holder = addMsg("", "ai");
   holder.innerHTML = '<span class="cp-typing"><i></i><i></i><i></i></span>';
+  chatHistory.push({ role:"user", content: text });
+  const systemMsg = { role:"system", content: SYSTEM + briefContext() };
+  const messages = [systemMsg, ...chatHistory.slice(-10)];
   try{
-    const model = await ensureModel();
-    if(!convId) convId = "conv_" + Date.now() + "_" + Math.floor(Math.random()*100000);
-    chatHistory.push({ role:"user", content: text });
-    const messages = [{ role:"system", content: SYSTEM }, ...chatHistory.slice(-10)];
-    controller = new AbortController();
-    let full = "";
-    for await (const chunk of cloud.llm.chat.completions.create({
-      model: model.id, messages, stream: true, conversationId: convId, signal: controller.signal
-    })){
-      const delta = chunk.choices[0] && chunk.choices[0].delta;
-      if(delta && delta.content){ full += delta.content; holder.textContent = full; msgsEl.scrollTop = msgsEl.scrollHeight; }
+    // 优先走自建代理
+    if(CHAT_PROXY_URL){
+      try{
+        await chatViaProxy(messages, holder);
+      }catch(proxyErr){
+        // 代理失败，回退到原免密钥云服务
+        console.warn("[EconoScout] 代理不可用，回退云服务：", proxyErr.message);
+        holder.textContent = "";
+        if(!cloud && !initCloud()) throw new Error("所有服务均不可用");
+        const model = await ensureModel();
+        if(!convId) convId = "conv_" + Date.now() + "_" + Math.floor(Math.random()*100000);
+        controller = new AbortController();
+        let full = "";
+        for await (const chunk of cloud.llm.chat.completions.create({
+          model: model.id, messages, stream: true, conversationId: convId, signal: controller.signal
+        })){
+          const delta = chunk.choices[0] && chunk.choices[0].delta;
+          if(delta && delta.content){ full += delta.content; holder.textContent = full; msgsEl.scrollTop = msgsEl.scrollHeight; }
+        }
+        if(full){ chatHistory.push({ role:"assistant", content: full }); }
+        else throw new Error("empty");
+      }
+    }else{
+      // 没配代理，直接用原云服务
+      if(!cloud && !initCloud()) throw new Error("问答服务尚未配置");
+      const model = await ensureModel();
+      if(!convId) convId = "conv_" + Date.now() + "_" + Math.floor(Math.random()*100000);
+      controller = new AbortController();
+      let full = "";
+      for await (const chunk of cloud.llm.chat.completions.create({
+        model: model.id, messages, stream: true, conversationId: convId, signal: controller.signal
+      })){
+        const delta = chunk.choices[0] && chunk.choices[0].delta;
+        if(delta && delta.content){ full += delta.content; holder.textContent = full; msgsEl.scrollTop = msgsEl.scrollHeight; }
+      }
+      if(full){ chatHistory.push({ role:"assistant", content: full }); }
+      else throw new Error("empty");
     }
-    if(full){ chatHistory.push({ role:"assistant", content: full }); }
-    else { holder.textContent = "（没有收到回答，请再试一次）"; }
   }catch(e){
-    holder.textContent = (e && e.name === "AbortError") ? "已停止。" : errText(e);
+    // 把刚压入的用户消息弹出，避免污染上下文
+    if(chatHistory.length && chatHistory[chatHistory.length-1].role==="user") chatHistory.pop();
+    holder.textContent = (e && e.name === "AbortError") ? "已停止。" :
+      (e && e.message && e.message.indexOf("所有服务")>=0 || e.message.indexOf("尚未配置")>=0)
+        ? "问答尚未接入：请部署自建代理并填入地址，或改用原发布链接。" : "服务暂时不可用，请点发送重试。";
   }finally{
     busy = false; controller = null; cpSend.disabled = false; cpSend.textContent = "发送";
   }
