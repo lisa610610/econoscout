@@ -115,8 +115,8 @@ def call_llm(user_prompt, verbose=True):
     key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
     if not key:
         raise RuntimeError("环境变量 DEEPSEEK_API_KEY 未设置")
-    base = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1").rstrip("/")
-    model = os.environ.get("DEEPSEEK_MODEL", "deepseek-chat")
+    base = (os.environ.get("DEEPSEEK_BASE_URL", "").strip() or "https://api.deepseek.com/v1").rstrip("/")
+    model = os.environ.get("DEEPSEEK_MODEL", "").strip() or "deepseek-chat"
     payload = {
         "model": model,
         "messages": [
