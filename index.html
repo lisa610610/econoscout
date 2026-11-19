@@ -438,6 +438,12 @@ PUB[_pk] = "wbpk_rUIcIynL515OF6bXQn4vyD_wFvE9JptLsVEtL1IWJm9vocRH5076Ixc";
    注意：这里只是公开的服务地址，不含任何 Key。 */
 const CHAT_PROXY_URL = "https://1536095350-59fed5z28t.ap-guangzhou.tencentcscf.com";
 
+/* 保底：github.io 是纯静态域名，自建代理在该域名下不可达。
+   在该域名下把问答引导到已验证可用的原发布链接（问答效果完全一致），
+   其他域名（含本地调试、原发布域名）保持原有问答逻辑不变。 */
+const LEGACY_CHAT_URL = "https://econoscout.app.workbuddy.host/?sharecode=Y5RXYYKQQ2";
+const IS_GITHUB_IO = /github\.io$/i.test(location.hostname);
+
 /* ---------- 真实新闻简报数据（3 组） ---------- */
 /* 内嵌兜底数据：网络失败时仍能展示真实简报（由 seed-briefs.json 同步而来） */
 const FALLBACK_SETS = [
@@ -838,6 +844,27 @@ function renderSaved(){
 
 /* ---------- 卡通助手问答（免密钥大模型） ---------- */
 const panel = $("#chatPanel"), msgsEl = $("#cpMsgs"), cpText = $("#cpText"), cpSend = $("#cpSend");
+
+/* github.io 域名下问答后端不可达：把输入区替换为“跳转原入口”引导卡片，
+   其余域名（本地 / 原发布域名 / 自建代理可用时）保持原样。 */
+if(IS_GITHUB_IO){
+  const quick = document.querySelector(".cp-quick");
+  const input = document.querySelector(".cp-input");
+  const note  = $("#cpNote");
+  if(quick) quick.style.display = "none";
+  if(input) input.style.display = "none";
+  if(note)  note.style.display  = "none";
+  const guide = document.createElement("div");
+  guide.style.cssText = "align-self:stretch;background:#fff;border:1px solid #d9e6e8;border-radius:14px;padding:20px 16px;text-align:center;color:#4a6169";
+  guide.innerHTML =
+    '<div style="font-size:26px;color:#1e8c7a;line-height:1">↗</div>'+
+    '<div style="font-weight:700;color:#16556b;margin:8px 0 6px;font-size:15px">换个入口继续聊</div>'+
+    '<p style="font-size:12.5px;line-height:1.7;margin:0 0 14px">当前页面负责每天自动更新真实经济简报。AI 问答在另一个入口更稳定，答案完全一致，点下方按钮即可直达。</p>'+
+    '<a href="'+LEGACY_CHAT_URL+'" target="_blank" rel="noopener" style="display:inline-block;background:#16556b;color:#fff;text-decoration:none;font-weight:700;font-size:13px;padding:10px 20px;border-radius:10px">打开 AI 问答 →</a>'+
+    '<div style="font-size:11px;color:#9aa8ad;margin-top:10px">新窗口打开 · 无需重新登录</div>';
+  msgsEl.appendChild(guide);
+}
+
 $("#chatFab").addEventListener("click", ()=>panel.classList.toggle("hidden"));
 $("#cpClose").addEventListener("click", ()=>panel.classList.add("hidden"));
 document.querySelectorAll(".cp-quick button").forEach(b=>b.addEventListener("click", ()=>{ cpText.value = b.textContent; sendChat(); }));
@@ -925,6 +952,8 @@ async function chatViaProxy(messages, holder){
 }
 
 async function sendChat(){
+  // github.io 下走保底：直接跳转原问答入口，不发必然失败的代理/云服务请求
+  if(IS_GITHUB_IO){ window.open(LEGACY_CHAT_URL, "_blank"); return; }
   if(busy) return;
   const text = cpText.value.trim(); if(!text) return;
   cpText.value = ""; addMsg(text, "me");
