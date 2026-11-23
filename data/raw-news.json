@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-22T08:45:26+08:00",
-  "total_collected": 178,
+  "fetched_at": "2026-11-23T08:50:23+08:00",
+  "total_collected": 176,
   "sources_status": [
     {
       "source": "GoogleNews",
@@ -12,7 +12,7 @@
       "source": "BingNews",
       "topic": "宏观/物价",
       "ok": true,
-      "count": 11
+      "count": 10
     },
     {
       "source": "GoogleNews",
@@ -36,7 +36,7 @@
       "source": "BingNews",
       "topic": "宏观/物价",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "source": "GoogleNews",
@@ -90,7 +90,7 @@
   "articles": [
     {
       "title": "中美经济对比，3个关键点反差强烈，人民币回升美国通胀仍难摆脱",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1e442f4c1ab7319452feb49db4&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A07TQY00&c=15947731159165178283&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc79a3d4290a5b0cc29f1386d0c&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A07TQY00&c=15947731159165178283&mkt=en-us",
       "summary": "把2025年的几个关键经济数据并排放在一起看，中国和美国之间呈现出一种方向上的反差。不是某一个指标的高低，而是物价、出口、汇率三条线各自走出的轨迹，拼在一起会让人重新审视一些习以为常的判断。 物价：中国是“稳”，美国是“胀在关税上” 先看中国。2025年全年CPI与上年持平，扣除食品和能源的核心CPI上涨0.7%，食品价格同比下降1.5%。PPI全年累计下降2.6%。这组数据说明的不是“通缩”，而 ...",
       "published_raw": "Fri, 13 Nov 2026 05:43:00 GMT",
       "source": "BingNews",
@@ -98,17 +98,8 @@
       "score": 21
     },
     {
-      "title": "央行开展7002亿元隔夜逆回购操作！呵护税期走款，平抑短端资金脉冲",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611183934168551.html&c=7530987132829407864&mkt=en-us",
-      "summary": "中国首席经济学家论坛国际金融研究院资深研究员刘涛告诉北京商报记者，近期央行逆回购操作呈现出“收长放短、精准微调”的显著特征。11月18日开展7002亿元隔夜逆回购并实现138亿元净回笼，实质上是税期后段的被动微调，而非主动收紧。其核心原因在于配合政策利率“换锚”改革，即引导DR001围绕1.25%的新政策利率中枢平稳运行，避免市场将操作机制调整误读为降息。",
-      "published_raw": "Wed, 18 Nov 2026 10:05:00 GMT",
-      "source": "BingNews",
-      "topic": "宏观/物价",
-      "score": 16
-    },
-    {
       "title": "呵护税期走款 央行开展7002亿元隔夜逆回购操作",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2ffinance.china.com%2fjinrong%2f13004689%2f20261119%2f49886343.html&c=6130746097129314161&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc69991407f9c64d4a141d63b6a&url=https%3a%2f%2ffinance.china.com%2fjinrong%2f13004689%2f20261119%2f49886343.html&c=6130746097129314161&mkt=en-us",
       "summary": "中国首席经济学家论坛国际金融研究院资深研究员刘涛告诉北京商报记者，近期央行逆回购操作呈现出“收长放短、精准微调”的显著特征。11月18日开展7002亿元隔夜逆回购并实现138亿元净回笼，实质上是税期后段的被动微调，而非主动收紧。其核心原因在于配合政策利率“换锚”改革，即引导DR001围绕1.25%的新政策利率中枢平稳运行，避免市场将操作机制调整误读为降息。",
       "published_raw": "Thu, 19 Nov 2026 01:12:00 GMT",
       "source": "BingNews",
@@ -117,7 +108,7 @@
     },
     {
       "title": "通缩幽灵挥之不去，中国3月份CPI和PPI指数仍呈收缩之势",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-s-weak-cpi-factory-gate-deflation-point-to-more-stimulus-20240411%2f7565642.html&c=13923475028768357345&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc5f21a4bd6b8351dcb5f7dac0f&url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-s-weak-cpi-factory-gate-deflation-point-to-more-stimulus-20240411%2f7565642.html&c=13923475028768357345&mkt=en-us",
       "summary": "中国3月的消费者价格指数（CPI）增幅低于预期，生产者价格指数（PPI）通缩持续存在，在需求依然疲软的情况下，中国当局的政策制定者面临着推出更多刺激措施的压力。 路透社的报道说，全球第二大经济体令人担忧的通货紧缩压力似乎正在缓慢缓解，但 ...",
       "published_raw": "Thu, 11 Apr 2024 14:22:00 GMT",
       "source": "BingNews",
@@ -126,7 +117,7 @@
     },
     {
       "title": "中国9月CPI低于预期 PPI上涨难掩内需疲弱",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f10%2f14%2fn14869654.htm&c=8722525437934791767&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc5f21a4bd6b8351dcb5f7dac0f&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f10%2f14%2fn14869654.htm&c=8722525437934791767&mkt=en-us",
       "summary": "中共国家统计局10月14日公布2026年9月居民消费价格指数（CPI）及工业生产者出厂价格指数（PPI）。CPI同比上涨0.9%，低于市场预期的1%；PPI同比上涨5.0%，涨幅较上月扩大1.2个百分点。表面上看，工业品价格回升加快，但外媒分析指出，这波涨价主要受到国际油价及大宗商品成本推动，消费端价格涨幅仍然温和，中国内需疲弱的问题并未因此消失。",
       "published_raw": "Wed, 14 Oct 2026 12:39:00 GMT",
       "source": "BingNews",
@@ -135,7 +126,7 @@
     },
     {
       "title": "王赫：CPI数据背后的三个中国经济真相",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f11%2f10%2fn14886245.htm&c=13816824628149617308&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc5f21a4bd6b8351dcb5f7dac0f&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f11%2f10%2fn14886245.htm&c=13816824628149617308&mkt=en-us",
       "summary": "11月9日，中共国家统计局公布的数据显示：2026年10月份，全国居民消费价格指数（CPI）同比上涨0.7%，创下3个月新低；生产者价格指数（PPI）同比上涨5.7%，创下2022年6月以来的最高水平。本文对此组数据进行三点分析。",
       "published_raw": "Tue, 10 Nov 2026 07:02:00 GMT",
       "source": "BingNews",
@@ -144,7 +135,7 @@
     },
     {
       "title": "美联储官员放出迄今最鹰言论：真实利率目标明确，未来数月或加息 ...",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b20e9e24ce98808d99f2c7aeb8d&url=https%3a%2f%2fwww.fx678.com%2fC%2f20261118%2f202611181044071712.html&c=11150693195195892694&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc92ece46b7bd3ab72af3c8f764&url=https%3a%2f%2fwww.fx678.com%2fC%2f20261118%2f202611181044071712.html&c=11150693195195892694&mkt=en-us",
       "summary": "汇通财经讯——圣路易斯联储主席阿尔贝托·穆萨莱姆周二表示，央行可能需要在明年年初上调基准利率多达四次。这位政策制定者在阿根廷发表讲话时指出，存在一种“不太可能但仍然可能发生”的情况，即未来无需再进一步加息。 汇通财经APP讯——圣路易斯联储主席阿尔贝托·穆萨莱姆于周二（11月17日）发表讲话，抛出目前美联储官员当中最为激进的观点之一。他提出，为抑制通胀，未来数月美联储最多可能实施四次加息。他在阿根 ...",
       "published_raw": "Wed, 18 Nov 2026 02:54:00 GMT",
       "source": "BingNews",
@@ -152,10 +143,10 @@
       "score": 13
     },
     {
-      "title": "美联储理事沃勒：倾向于12月加息25个基点，若通胀持续高企应考虑加 ...",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b20e9e24ce98808d99f2c7aeb8d&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34445739&c=4772704473179721615&mkt=en-us",
-      "summary": "当地时间11月10日，美联储理事克里斯托弗·沃勒（Christopher Waller）表示，美国经济活动强劲，劳动力市场稳定，但通胀仍远高于美联储2%的目标。他表示，即使10月CPI数据有所改善，他仍倾向于支持美联储在12月议息会议上加息25个基点。若10月核心CPI环比涨幅在0.3%左右甚至更高，则应考虑加息50个基点。",
-      "published_raw": "Tue, 10 Nov 2026 09:46:00 GMT",
+      "title": "中金：支持美联储继续加息，通胀粘性未退",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc92ece46b7bd3ab72af3c8f764&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261112%2f49863265_all.html&c=4134116258934545428&mkt=en-us",
+      "summary": "美国10月CPI季调环比上涨0.4%，核心CPI环比上涨0.3%，均高于市场预期。去年10月美国政府停摆未公布经济数据，因此缺失同比数据。通胀粘性仍然较强，核心CPI环比连续第三个月上涨0.3%，支持美联储继续加息。近期美联储理事沃勒提出不排除12月加息50个基点的可能性，但认为美联储政策并未明显落后于曲线，加上金融条件已边际收紧，加速加息的必要性不强。预计12月将加息25个基点，本轮紧缩节奏仍偏 ...",
+      "published_raw": "Wed, 11 Nov 2026 17:14:00 GMT",
       "source": "BingNews",
       "topic": "宏观/物价",
       "score": 13
@@ -170,17 +161,8 @@
       "score": 12
     },
     {
-      "title": "国新看台丨10月CPI和PPI走势如何？国家统计局这样说",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102208263_115495&c=4362353859323768424&mkt=en-us",
-      "summary": "国务院新闻办公室11月16日举行新闻发布会，介绍2026年10月份国民经济运行情况。 CPI继续保持温和上涨态势 10月份，全国居民消费价格(CPI)同比上涨0.7%，环比持平。分类别看，食品烟酒及在外餐饮价格同比下降1.6%，衣着价格上涨1.1%，居住价格下降0.3%，生活用品及服务价格上涨0.2%，交通通信价格上涨5.5%，教育文化娱乐价格上涨1.5%，医疗保健价格上涨2.4%，其他用品及服务 ...",
-      "published_raw": "Mon, 16 Nov 2026 06:21:00 GMT",
-      "source": "BingNews",
-      "topic": "宏观/物价",
-      "score": 12
-    },
-    {
       "title": "中国8月CPI同比涨0.6% PPI同比降1.8% 中国面对通缩还是通胀？",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fyataibaodao%2fjingmao%2fhx1-chinas-consumer-prices-rise-in-august-09092024082711.html&c=3148812675677935615&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc5f21a4bd6b8351dcb5f7dac0f&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fyataibaodao%2fjingmao%2fhx1-chinas-consumer-prices-rise-in-august-09092024082711.html&c=3148812675677935615&mkt=en-us",
       "summary": "整体CPI虽比上一季好，但这种经过校正的状况，仍趋近于零，甚至有可能是负的。 PPI下跌在扩大，更糟。 郑政秉说：“中国还可以拿出来炫耀的只有汽车产业，它也在衰退，不管电动车、传统柴油车都在衰退。",
       "published_raw": "Sun, 08 Sep 2024 21:00:00 GMT",
       "source": "BingNews",
@@ -189,7 +171,7 @@
     },
     {
       "title": "新数据反映中国经济疲软加剧 政治局急开会谈明年经济部署",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fshangye%2fjingji%2f2024%2f12%2f09%2fchina-economy-cpi-ppi-slowdown%2f&c=3128886718957885078&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc5f21a4bd6b8351dcb5f7dac0f&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fshangye%2fjingji%2f2024%2f12%2f09%2fchina-economy-cpi-ppi-slowdown%2f&c=3128886718957885078&mkt=en-us",
       "summary": "在中共中央经济工作会议召开前夕，官方公布的反映消费力的CPI和影响企业经营的PPI等数据，均显示救市政策齐发后，中国经济仍持续疲软，已延迟召开的政治局会议突然召开，把明年经济工作列入会议重点。 11月没有召开的中共中央政治局会议，突然在周一(12 ...",
       "published_raw": "Tue, 10 Dec 2024 10:12:00 GMT",
       "source": "BingNews",
@@ -198,7 +180,7 @@
     },
     {
       "title": "中国9月CPI、PPI及进出口数据将出炉；美联储经济状况褐皮书将公布丨 ...",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610123892169642.html&c=9282522149216258349&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc5f21a4bd6b8351dcb5f7dac0f&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202610123892169642.html&c=9282522149216258349&mkt=en-us",
       "summary": "本周（10月12日—10月18日），国内方面，9月CPI同比、9月PPI同比、9月进出口同比等数据将公布，第140届广交会将开幕，A股三季报披露大幕将启；海外方面，美国9月CPI同比、美国9月核心CPI同比等数据将公布，美联储将公布经济状况褐皮书。 中国9月PPI同比 中国9月 ...",
       "published_raw": "Mon, 12 Oct 2026 01:10:00 GMT",
       "source": "BingNews",
@@ -216,7 +198,7 @@
     },
     {
       "title": "央行7002亿隔夜逆回购“全额满足”，但净回笼了138亿",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103215884_122989342&c=9141715395476655967&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc69991407f9c64d4a141d63b6a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1103215884_122989342&c=9141715395476655967&mkt=en-us",
       "summary": "11月18日，央行以固定利率、数量招标方式开展7002亿元隔夜逆回购操作，利率1.25%，全额满足一级交易商需求。当日有7140亿元隔夜逆回购到期，单日实现净回笼138亿元。 这是隔夜逆回购“换锚”以来，首次出现“全额满足但净回笼”的组合。 138亿的净回笼，不是收紧信号 138亿的规模，放在万亿级的操作体量里几乎可以忽略。但它的“方向”值得拆开看。 东方金诚首席宏观分析师王青的解读是：18日是本 ...",
       "published_raw": "Wed, 18 Nov 2026 07:46:00 GMT",
       "source": "BingNews",
@@ -225,7 +207,7 @@
     },
     {
       "title": "隔夜逆回购操作常态化，央行利率调控迎新变",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202608173843516946.html&c=14453576191976235594&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc69991407f9c64d4a141d63b6a&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202608173843516946.html&c=14453576191976235594&mkt=en-us",
       "summary": "过去几周，货币市场消息不断。7月20日，全国首单DR基准利率贷款落地；8月11日起，公开市场7天期逆回购连续零操作；8月14日、8月17日，超9000亿元隔夜逆回购落地。近日人民银行发布的《2026年第二季度中国货币政策执行报告》（以下简称《报告》）中，更是 ...",
       "published_raw": "Mon, 17 Aug 2026 13:46:00 GMT",
       "source": "BingNews",
@@ -234,7 +216,7 @@
     },
     {
       "title": "CPI与PPI“剪刀差”有所扩大 国家统计局回应",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=http%3a%2f%2fwww.ce.cn%2fxwzx%2fgnsz%2fgdxw%2f202610%2ft20261019_3263858.shtml&c=13974985597626649404&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc5f21a4bd6b8351dcb5f7dac0f&url=http%3a%2f%2fwww.ce.cn%2fxwzx%2fgnsz%2fgdxw%2f202610%2ft20261019_3263858.shtml&c=13974985597626649404&mkt=en-us",
       "summary": "中国经济网北京10月19日讯（记者 杨淼）10月19日，国新办就2026年前三季度国民经济运行情况举行新闻发布会。针对9月PPI涨幅扩大、上游成本向下游传导、制造业企业盈利等市场关切，国家统计局新闻发言人、国民经济综合统计司负责人王冠华在会上作出回应。",
       "published_raw": "Mon, 19 Oct 2026 07:44:00 GMT",
       "source": "BingNews",
@@ -243,7 +225,7 @@
     },
     {
       "title": "外媒称中国经济再现积极迹象：4月PPI数据抢眼",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1cf40b4cc68092be4ae0281a5b&url=https%3a%2f%2fnews.ifeng.com%2fc%2f7fcwJyXRlGm&c=13245344728293418431&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc5f21a4bd6b8351dcb5f7dac0f&url=https%3a%2f%2fnews.ifeng.com%2fc%2f7fcwJyXRlGm&c=13245344728293418431&mkt=en-us",
       "summary": "核心提示：今年3月经济数据走强使人们认为中国经济将探底回升。但迄今为止喜忧参半的4月数据以及不断攀升的负债水平，让各方怀疑任何复苏是否能经事实证明具有可持续性。 参考消息网5月11日报道 外媒称，中国5月10日公布的官方数据显示，4月工业生产者 ...",
       "published_raw": "Wed, 11 May 2016 02:38:00 GMT",
       "source": "BingNews",
@@ -251,8 +233,26 @@
       "score": 10
     },
     {
+      "title": "央行首次开展隔夜逆回购操作：规模3000亿元 为何未公布利率？",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc69991407f9c64d4a141d63b6a&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202606293786694763.html&c=9807316882814892975&mkt=en-us",
+      "summary": "首次隔夜逆回购操作正式落地。 2026年6月29日，央行发布公开市场业务交易公告称，当日以固定利率、数量招标方式开展了1575亿元7天期逆回购操作，全额满足了一级交易商需求。同时，开展了3000亿元隔夜逆回购操作。 在6月25日预告隔夜将实施隔夜逆回购时 ...",
+      "published_raw": "Mon, 29 Jun 2026 09:45:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 10
+    },
+    {
+      "title": "央行“锁长放短”稳定资金预期，11月买断式逆回购净回笼3000亿",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc69991407f9c64d4a141d63b6a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1101893198_114986&c=17324255801953012384&mkt=en-us",
+      "summary": "日前，中国人民银行发布的公开市场买断式逆回购招标公告称，为保持银行体系流动性充裕，将于11月16日以固定数量、利率招标、多重价位中标方式开展2000亿元买断式逆回购操作，期限为6个月（180天），到期日为2027年5月15日（遇节假日顺延）。 由于11月有3000亿元6个月期买断式逆回购到期，16日操作后将净回笼1000亿元。同时，本月3个月期买断式逆回购已缩量2000亿元，累计看，11月两个期限 ...",
+      "published_raw": "Sun, 15 Nov 2026 10:30:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 10
+    },
+    {
       "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-11-13%2fdoc-iniyrazx3556332.shtml&c=7322849602205528711&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc69991407f9c64d4a141d63b6a&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-11-13%2fdoc-iniyrazx3556332.shtml&c=7322849602205528711&mkt=en-us",
       "summary": "财联社11月13日讯（记者 曹韵仪） 今日央行宣布将开展2000亿元买断式逆回购操作，由于11月16日有3000亿元6个月期买断式逆回购到期。这意味着11月6个月期买断式逆回购为缩量续作，缩量规模1000亿元。 业内人士表示，央行本月缩量续作的原因在于近期市场流动性偏松，央行连续实施中期资金净回笼，有助于遏制资金利率下行势头。“值得注意的是，后续货币市场利率更多表现为对政策利率调整的传递，应更多关 ...",
       "published_raw": "Fri, 13 Nov 2026 05:55:00 GMT",
       "source": "BingNews",
@@ -260,17 +260,8 @@
       "score": 10
     },
     {
-      "title": "央行出手！2000亿元买断式逆回购来了",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2fwww.sohu.com%2fa%2f1101219607_122014422&c=14815647285740317148&mkt=en-us",
-      "summary": "11月13日，中国人民银行发布公开市场买断式逆回购招标公告称，为保持银行体系流动性充裕，2026年11月16日，将以固定数量、利率招标、多重价位中标方式开展2000亿元买断式逆回购操作，期限为6个月（180天），到期日为2027年5月15日（遇节假日顺延）。 由于本月有3000亿元6个月期买断式逆回购到期，11月16日操作后将净回笼1000亿元。同时，由于本月3个月期买断式逆回购已缩量2000亿元 ...",
-      "published_raw": "Fri, 13 Nov 2026 11:55:00 GMT",
-      "source": "BingNews",
-      "topic": "宏观/物价",
-      "score": 10
-    },
-    {
       "title": "央行开展1900亿元隔夜逆回购操作；政策利率“换锚”传导效应显现 ...",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261111A03C0000&c=10172370433764222205&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc69991407f9c64d4a141d63b6a&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261111A03C0000&c=10172370433764222205&mkt=en-us",
       "summary": "人民银行11月10日公告称，以固定利率、数量招标方式开展了1900亿元隔夜期逆回购操作，全额满足了一级交易商需求。因有1820亿元隔夜逆回购到期，当日实现净投放80亿元。 点评：兴业基金发布的观点认为，参考历史及今年以来的实际运行，预计11月银行信贷投放仍较为低迷；债券供给受前期偏慢影响，大概率将有所提速。资金面扰动因素有限，资金利率保持相对低位，存单利率或有所下行。 NO.2 政策利率“换锚”传 ...",
       "published_raw": "Tue, 10 Nov 2026 23:03:00 GMT",
       "source": "BingNews",
@@ -279,7 +270,7 @@
     },
     {
       "title": "政策利率“换锚”迎来关键一步 央行：隔夜逆回购操作将于每个工作 ...",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2fforex.eastmoney.com%2fa%2f202610313917324529.html&c=12231852799444984874&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc69991407f9c64d4a141d63b6a&url=https%3a%2f%2fforex.eastmoney.com%2fa%2f202610313917324529.html&c=12231852799444984874&mkt=en-us",
       "summary": "政策利率“换锚”迎来关键一步。中国人民银行10月30日发布公开市场业务公告称，为进一步优化短端利率调控机制，从2026年11月2日起，公开市场操作进行三项调整。 首先，每个工作日开展隔夜逆回购操作招标，采用固定利率、数量招标。目前操作利率为1.25%。",
       "published_raw": "Fri, 30 Oct 2026 17:00:00 GMT",
       "source": "BingNews",
@@ -287,22 +278,31 @@
       "score": 10
     },
     {
-      "title": "连停三日逆回购后，央行首次月中启动隔夜逆回购，对市场有何影响？",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2fbond.eastmoney.com%2fa%2f202608133840434874.html&c=10301440676097771655&mkt=en-us",
-      "summary": "8月11日至13日，央行连续三日7天期逆回购“零操作”，结合到期的逆回购存量金额计算，三天分别实现净回笼465亿元、50亿元和10亿元。此次央行7天期逆回购投放量再度归零，为年内第二次，也是逆回购改为固定利率、数量招标机制后的第三次零操作。 此外，8月 ...",
-      "published_raw": "Thu, 13 Aug 2026 08:48:00 GMT",
+      "title": "“鹰风”席卷美联储！美国通胀阴霾挥之不去 又一官员呼吁渐进加息",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b038dc92ece46b7bd3ab72af3c8f764&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611113928220326.html&c=8489249376297956161&mkt=en-us",
+      "summary": "费城联储主席安娜·保尔森周二表示，随着美联储致力于降低居高不下的通胀水平，未来还将有更多的加息动作。 保尔森在为宾夕法尼亚州一次活动所准备的演讲稿中指出，货币政策“进一步逐步收紧似乎是适宜的”。 “具体的路径将取决于形势的演变，我会密切关注相关数据，”保尔森表示。她指出，所谓的“渐进式”加息既能让经济有时间去适应更高的借贷成本，同时也让美联储官员有空间评估各项政策选择所带来的影响。 “我仍然认为， ...",
+      "published_raw": "Wed, 11 Nov 2026 02:04:00 GMT",
       "source": "BingNews",
       "topic": "宏观/物价",
       "score": 10
     },
     {
-      "title": "〔中国货币市场〕大额逆回购强化宽松预期,七天品种需求骤减利率大 ...",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b023b1ecb4e49f1b7ed3896d0b59666&url=https%3a%2f%2fwww.reuters.com%2farticle%2fmarkets%2fasia%2f-idUSSB1758888%2f&c=18316417437738597909&mkt=en-us",
-      "summary": "路透上海9月4日电---中国央行公开市场再放大额逆回购,市场流动性愈加宽松,银行间市场周二早盘主要质押式回购加权利率全线下跌,其中七天品种大降逾80点(bp). 交易员表示,今日虽有逆回购到期,但央行公开市场轮动续作大额逆回购,打消市场担忧,强化宽松预期 ...",
-      "published_raw": "Mon, 03 Sep 2012 21:56:00 GMT",
-      "source": "BingNews",
+      "title": "中国经济半年报 | PPI-CPI剪刀差创4年新高，如何打破价格分化？ - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mQ0dIeVFxTU1oQnVpakJOWXVlSkRsQjRoY00xaDlxbGEzaU84emhRVzVhemhEZkYtZU11TDhNZENLUWhzT2FqeWFOQkp1ZURuUVRGN2pQZnE?oc=5",
+      "summary": "中国经济半年报 | PPI-CPI剪刀差创4年新高，如何打破价格分化？ Jiemian.com",
+      "published_raw": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "source": "GoogleNews",
       "topic": "宏观/物价",
-      "score": 10
+      "score": 9
+    },
+    {
+      "title": "8月CPI、PPI双回升 杨宜勇：价格“回暖”中见经济韧性 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yRFJiSWF1TWFVUGQwNHctNTN0MDBLQWp6TUlyMjhFZFpjTEF1U0JXSGVCYkcyZldkSmV0S0RGOVNPLVFIQm1vemowQ3RmQVlJWDBOQmduVlpKYmxUejUtZzlYc2xwSnEyMERiMFJnbUNwSDM5cklNaQ?oc=5",
+      "summary": "8月CPI、PPI双回升 杨宜勇：价格“回暖”中见经济韧性 新浪财经_金融信息服务商",
+      "published_raw": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "source": "GoogleNews",
+      "topic": "宏观/物价",
+      "score": 9
     }
   ]
 }
