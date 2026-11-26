@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-25T08:57:03+08:00",
-  "total_collected": 178,
+  "fetched_at": "2026-11-26T08:57:26+08:00",
+  "total_collected": 177,
   "sources_status": [
     {
       "source": "GoogleNews",
@@ -24,7 +24,7 @@
       "source": "BingNews",
       "topic": "宏观/物价",
       "ok": true,
-      "count": 12
+      "count": 11
     },
     {
       "source": "GoogleNews",
@@ -89,17 +89,8 @@
   ],
   "articles": [
     {
-      "title": "中美经济对比，3个关键点反差强烈，人民币回升美国通胀仍难摆脱",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063256ccc742a399961d9a6184c4b8&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261113A07TQY00&c=15947731159165178283&mkt=en-us",
-      "summary": "把2025年的几个关键经济数据并排放在一起看，中国和美国之间呈现出一种方向上的反差。不是某一个指标的高低，而是物价、出口、汇率三条线各自走出的轨迹，拼在一起会让人重新审视一些习以为常的判断。 物价：中国是“稳”，美国是“胀在关税上” 先看中国。2025年全年CPI与上年持平，扣除食品和能源的核心CPI上涨0.7%，食品价格同比下降1.5%。PPI全年累计下降2.6%。这组数据说明的不是“通缩”，而 ...",
-      "published_raw": "Fri, 13 Nov 2026 05:43:00 GMT",
-      "source": "BingNews",
-      "topic": "宏观/物价",
-      "score": 21
-    },
-    {
       "title": "分析：中国经济深层通缩 中共关税战的弱点",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063254866a453a80234b68b8ae8075&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f25%2f5%2f13%2fn14507846.htm&c=8966343759768848834&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ecc682451f9cf88a6851a84aa2&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f25%2f5%2f13%2fn14507846.htm&c=8966343759768848834&mkt=en-us",
       "summary": "【大纪元2025年05月13日讯】（大纪元记者程雯、易如采访报导）中国4月份的生产者物价指数（PPI）创下6个月来的最大同比跌幅，4月的消费者物价指数（CPI）也显示连续3个月同比下跌。专家分析认为，这些数据反映出中国经济已进入“深层通缩螺旋”中，如不 ...",
       "published_raw": "Tue, 13 May 2025 19:58:00 GMT",
       "source": "BingNews",
@@ -108,7 +99,7 @@
     },
     {
       "title": "美联储放鹰美元指数升高，人民币汇率稳健底气何来",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063256ccc742a399961d9a6184c4b8&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A09YV000&c=17846868218089715784&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ee7df046f196bf11774b92236e&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A09YV000&c=17846868218089715784&mkt=en-us",
       "summary": "美联储12月加息概率进一步提升，美元指数突破103，人民币汇率走势依旧稳健，贸易顺差成为汇率定盘星。作者/廖宗魁编辑/李恒春2026年以来，美联储的加息步伐落后于欧洲与日本央行，这可能更多是节奏上的差异，未来美联储加息或提速。美国通胀依然居高不下。10月美国居民消费者价格指数（CPI）环比上涨0.4%，核心CPI环比上涨0.3%，连续第三个月出现偏高涨幅，3个月年化增速达3.7%。美联储理事克里斯 ...",
       "published_raw": "Tue, 24 Nov 2026 08:02:00 GMT",
       "source": "BingNews",
@@ -116,8 +107,26 @@
       "score": 18
     },
     {
+      "title": "美联储青睐的通胀指标10月上升，市场预期美联储下月加息",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2fwww.36kr.com%2fnewsflashes%2f4085770786662784&c=10458255271890919544&mkt=en-us",
+      "summary": "美联储青睐的通胀指标在10月小幅走高，央行决策者正在权衡下月加息。美国商务部周三公布，10月个人消费支出（PCE）价格指数环比上涨0.3%，同比上涨3.8%。剔除食品和能源价格波动影响的核心PCE环比上涨0.3%，同比上涨3.3%。环比数据符合经济学家的预期，而同比数据略高于3.2%的预期。美联储决策者正试图将通胀率拉回2%的长期目标，因此关注整体PCE数据，不过他们认为核心数据是更好的通胀指标。",
+      "published_raw": "Wed, 25 Nov 2026 09:09:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 17
+    },
+    {
+      "title": "美联储重磅！最青睐通胀指标超预期，12月加息概率升高",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2fwww.sohu.com%2fa%2f1106485877_122014422&c=11043729484925112315&mkt=en-us",
+      "summary": "市场开始博弈明年是否会3次上调利率。 最新公布的数据显示，美国通胀在10月进一步偏离联邦公开市场委员会FOMC 2%的政策目标。作为美联储年终会议前最后一个物价指标，这进一步强化了市场对12月再次加息的预期，也引发了对2027年央行还需采取多少紧缩措施的疑问。 受此影响，美股短线跳水，美元拉升打压大宗商品市场。 数据超预期 美国商务部周三公布，美联储偏好的通胀衡量指标——10月个人消费支出价格指数 ...",
+      "published_raw": "Wed, 25 Nov 2026 09:21:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 16
+    },
+    {
       "title": "通缩幽灵挥之不去，中国3月份CPI和PPI指数仍呈收缩之势",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063254866a453a80234b68b8ae8075&url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-s-weak-cpi-factory-gate-deflation-point-to-more-stimulus-20240411%2f7565642.html&c=13923475028768357345&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ecc682451f9cf88a6851a84aa2&url=https%3a%2f%2fwww.voachinese.com%2fa%2fchina-s-weak-cpi-factory-gate-deflation-point-to-more-stimulus-20240411%2f7565642.html&c=13923475028768357345&mkt=en-us",
       "summary": "中国3月的消费者价格指数（CPI）增幅低于预期，生产者价格指数（PPI）通缩持续存在，在需求依然疲软的情况下，中国当局的政策制定者面临着推出更多刺激措施的压力。 路透社的报道说，全球第二大经济体令人担忧的通货紧缩压力似乎正在缓慢缓解，但 ...",
       "published_raw": "Thu, 11 Apr 2024 14:22:00 GMT",
       "source": "BingNews",
@@ -125,37 +134,19 @@
       "score": 15
     },
     {
-      "title": "央行将开展5000亿买断式逆回购 流动性管理精细化(2)",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063255dec9426dae5ae417632c1d05&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261125%2f49904211_1.html&c=3197511024754489706&mkt=en-us",
-      "summary": "王青预计，在市场预期回稳后，包括MLF、买断式逆回购操作在内的中期流动性工具有望恢复加量续作，支持政府债券发行和银行配套信贷投放，这是现阶段货币政策加大逆周期调节力度的一个重要发力点。 央行同日发布消息称，11月25日将以固定数量、利率招标、多重价位中标方式开展5000亿元7天期逆回购操作。招联首席经济学家、上海金融与发展实验室执行主任董希淼表示，11月25日是本周资金面压力最集中的一天，恰逢缴准 ...",
-      "published_raw": "Tue, 24 Nov 2026 10:09:00 GMT",
+      "title": "美联储“三把手”释放鹰派信号：通胀高企，不排除连续加息",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-11-24%2fdoc-inizuxve5204570.shtml&c=190840359523536138&mkt=en-us",
+      "summary": "“如果需要，我完全不排除在连续几次会议上采取行动。”他补充说，会密切关注美国经济强于预期、供应端潜在强劲，或汽油价格进一步上涨加剧美国通胀压力的迹象。 作为纽约联储主席，威廉姆斯在联邦公开市场委员会（FOMC）兼任负责制定利率政策的副主席，与美联储理事一样拥有永久的投票权，被视作联储的“三号人物”。",
+      "published_raw": "Tue, 24 Nov 2026 02:40:00 GMT",
       "source": "BingNews",
       "topic": "宏观/物价",
       "score": 14
     },
     {
       "title": "中国7月份CPI、PPI同比涨幅放缓",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063254866a453a80234b68b8ae8075&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f8%2f9%2fn14826095.htm&c=4591700252935214793&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ecc682451f9cf88a6851a84aa2&url=https%3a%2f%2fwww.epochtimes.com%2fgb%2f26%2f8%2f9%2fn14826095.htm&c=4591700252935214793&mkt=en-us",
       "summary": "【大纪元2026年08月09日讯】（大纪元记者刘毅报导）8月9日，中共官方发布的7月份居民消费价格指数（CPI）和工业生产者出厂价格指数（PPI）显示，两个质数均出现同比涨幅下滑的现象，有分析认为，CPI涨幅非常小显示居民的整体消费意愿和购买力依然谨慎 ...",
       "published_raw": "Sun, 09 Aug 2026 09:53:00 GMT",
-      "source": "BingNews",
-      "topic": "宏观/物价",
-      "score": 13
-    },
-    {
-      "title": "经济“数”语｜8000亿+5000亿！央行“组合拳”出手",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063255dec9426dae5ae417632c1d05&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261124A0DJJI00&c=579098832937707845&mkt=en-us",
-      "summary": "据央行网站11月24日消息，为保持银行体系流动性充裕，11月25日，央行将以固定数量、利率招标、多重价位中标方式开展5000亿元7天期逆回购操作；此外，将以固定数量、利率招标、多重价位中标方式开展8000亿元MLF操作，期限为1年期。7天期逆回购操作，是我国央行向一级交易商购买有价证券，并约定在未来7个交易日将有价证券卖 ...",
-      "published_raw": "Tue, 24 Nov 2026 11:46:00 GMT",
-      "source": "BingNews",
-      "topic": "宏观/物价",
-      "score": 13
-    },
-    {
-      "title": "中金：支持美联储继续加息，通胀粘性未退",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0632583b2a42e5925e85ff18b1b4c3&url=https%3a%2f%2fnews.china.com%2fsocialgd%2f10000169%2f20261112%2f49863265_all.html&c=4134116258934545428&mkt=en-us",
-      "summary": "美国10月CPI季调环比上涨0.4%，核心CPI环比上涨0.3%，均高于市场预期。去年10月美国政府停摆未公布经济数据，因此缺失同比数据。通胀粘性仍然较强，核心CPI环比连续第三个月上涨0.3%，支持美联储继续加息。近期美联储理事沃勒提出不排除12月加息50个基点的可能性，但认为美联储政策并未明显落后于曲线，加上金融条件已边际收紧，加速加息的必要性不强。预计12月将加息25个基点，本轮紧缩节奏仍偏 ...",
-      "published_raw": "Wed, 11 Nov 2026 17:14:00 GMT",
       "source": "BingNews",
       "topic": "宏观/物价",
       "score": 13
@@ -170,26 +161,8 @@
       "score": 12
     },
     {
-      "title": "7月PPI同比降CPI持平 中国经济未走出通缩和“内卷”怪圈 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YcjIyR3BKaUstcFhfUk1KMTQ5REIxYVpfbzNjeGMxczVUN3FXVDZTcW1fTjkwYl8tNnVUWjRNeThsM0JzeHA5ZURBcm4wd3I1U2NYR0FWS3oyRnJpZE9sQ0w3cFVrRjdyMGc?oc=5",
-      "summary": "7月PPI同比降CPI持平 中国经济未走出通缩和“内卷”怪圈 联合早报",
-      "published_raw": "Sat, 09 Aug 2025 07:00:00 GMT",
-      "source": "GoogleNews",
-      "topic": "宏观/物价",
-      "score": 12
-    },
-    {
-      "title": "国新看台丨10月CPI和PPI走势如何？国家统计局这样说",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063254866a453a80234b68b8ae8075&url=https%3a%2f%2fwww.sohu.com%2fa%2f1102208263_115495&c=4362353859323768424&mkt=en-us",
-      "summary": "国务院新闻办公室11月16日举行新闻发布会，介绍2026年10月份国民经济运行情况。 CPI继续保持温和上涨态势 10月份，全国居民消费价格(CPI)同比上涨0.7%，环比持平。分类别看，食品烟酒及在外餐饮价格同比下降1.6%，衣着价格上涨1.1%，居住价格下降0.3%，生活用品及服务价格上涨0.2%，交通通信价格上涨5.5%，教育文化娱乐价格上涨1.5%，医疗保健价格上涨2.4%，其他用品及服务 ...",
-      "published_raw": "Mon, 16 Nov 2026 06:21:00 GMT",
-      "source": "BingNews",
-      "topic": "宏观/物价",
-      "score": 12
-    },
-    {
       "title": "中国8月CPI同比涨0.6% PPI同比降1.8% 中国面对通缩还是通胀？",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063254866a453a80234b68b8ae8075&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fyataibaodao%2fjingmao%2fhx1-chinas-consumer-prices-rise-in-august-09092024082711.html&c=3148812675677935615&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ecc682451f9cf88a6851a84aa2&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fyataibaodao%2fjingmao%2fhx1-chinas-consumer-prices-rise-in-august-09092024082711.html&c=3148812675677935615&mkt=en-us",
       "summary": "整体CPI虽比上一季好，但这种经过校正的状况，仍趋近于零，甚至有可能是负的。 PPI下跌在扩大，更糟。 郑政秉说：“中国还可以拿出来炫耀的只有汽车产业，它也在衰退，不管电动车、传统柴油车都在衰退。",
       "published_raw": "Sun, 08 Sep 2024 21:00:00 GMT",
       "source": "BingNews",
@@ -198,7 +171,7 @@
     },
     {
       "title": "新数据反映中国经济疲软加剧 政治局急开会谈明年经济部署",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063254866a453a80234b68b8ae8075&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fshangye%2fjingji%2f2024%2f12%2f09%2fchina-economy-cpi-ppi-slowdown%2f&c=3128886718957885078&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ecc682451f9cf88a6851a84aa2&url=https%3a%2f%2fwww.rfa.org%2fmandarin%2fshangye%2fjingji%2f2024%2f12%2f09%2fchina-economy-cpi-ppi-slowdown%2f&c=3128886718957885078&mkt=en-us",
       "summary": "在中共中央经济工作会议召开前夕，官方公布的反映消费力的CPI和影响企业经营的PPI等数据，均显示救市政策齐发后，中国经济仍持续疲软，已延迟召开的政治局会议突然召开，把明年经济工作列入会议重点。 11月没有召开的中共中央政治局会议，突然在周一(12 ...",
       "published_raw": "Tue, 10 Dec 2024 10:12:00 GMT",
       "source": "BingNews",
@@ -207,7 +180,7 @@
     },
     {
       "title": "中国央行将同日开展MLF与7天期逆回购操作",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063255dec9426dae5ae417632c1d05&url=https%3a%2f%2fwww.chinanews.com.cn%2fcj%2f2026%2f11-24%2f10737160.shtml&c=3810791183507761076&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ed13764fe0b30c98953b17a186&url=https%3a%2f%2fwww.chinanews.com.cn%2fcj%2f2026%2f11-24%2f10737160.shtml&c=3810791183507761076&mkt=en-us",
       "summary": "中新社北京11月24日电 (陶思阅)中国央行24日发布公告称，将于25日以固定数量、利率招标、多重价位中标方式开展8000亿元(人民币，下同)MLF(中期借贷便利)操作，期限为1年期。同日，央行还宣布将于25日开展5000亿元7天期逆回购操作。 中国首席经济学家论坛成员庞溟表示，从政策信号看，此次MLF与逆回购组合操作体现出货币政策继续坚持总量适度、结构优化的思路。MLF主要服务于中长期流动性投放 ...",
       "published_raw": "Tue, 24 Nov 2026 11:47:00 GMT",
       "source": "BingNews",
@@ -215,8 +188,17 @@
       "score": 12
     },
     {
+      "title": "阿克曼警告美联储12月继续加息或引发衰退，呼吁将2%通胀目标提高至3%",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261125A0DFWD00&c=8443256409292248425&mkt=en-us",
+      "summary": "美国对冲基金经理比尔·阿克曼于11月22日（美国时间）在微博上发文，警告美联储不要在12月继续加息，并且提出把长期通胀目标从2%提高到3%。这并不是美联储的新政策，而是阿克曼个人提出的主张。争议的核心，就是美国经济目前更需要压低通胀，还是防止高利率进一步压住企业投资和经济增长。 阿克曼把企业融资成本上升当作金融条件正在收紧的信号。他给出的例子就是SpaceX。该公司近期一笔优先有担保债券的收益率为 ...",
+      "published_raw": "Wed, 25 Nov 2026 10:32:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 12
+    },
+    {
       "title": "阿克曼呼吁美联储上调通胀目标，警告加息将致衰退",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0632583b2a42e5925e85ff18b1b4c3&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A08H2D00&c=15302865540899117200&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261123A08H2D00&c=15302865540899117200&mkt=en-us",
       "summary": "亿万富翁投资者阿克曼呼吁美联储将通胀目标由2%提高至3%，认为金融环境已明显收紧，若12月继续加息，可能将美国乃至全球经济推向衰退。 美国知名对冲基金经理、潘兴广场资本管理公司创始人比尔·阿克曼（Bill Ackman）公开质疑美联储坚持2%通胀目标的合理性，认为全球经济环境已经发生结构性变化，继续通过提高利率压低通胀，可能造成严重的经济后果。 阿克曼在社交平台上表示，美联储可能在12月9日的利率 ...",
       "published_raw": "Mon, 23 Nov 2026 05:56:00 GMT",
       "source": "BingNews",
@@ -224,8 +206,17 @@
       "score": 12
     },
     {
+      "title": "美银2027年展望：AI投资成美国经济最大变数，美联储料再加息三次",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2fwww.36kr.com%2fp%2f4085808959957382&c=2306022129664373166&mkt=en-us",
+      "summary": "美银认为，尽管美国经济目前仍表现出较强韧性，但人工智能（AI）投资浪潮的走向可能决定未来两年美国经济和货币政策的轨迹。如果企业投资持续高速增长，美联储可能不得不将政策利率提高至5%甚至更高；而一旦AI资本开支大幅放缓，美国经济将面临更高的衰退风险，美联储也可能转向降息。",
+      "published_raw": "Wed, 25 Nov 2026 16:00:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 12
+    },
+    {
       "title": "美联储威廉姆斯释放加息信号：经济依然强劲、通胀率仍然过高",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0632583b2a42e5925e85ff18b1b4c3&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34544868&c=11111570496411747909&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34544868&c=11111570496411747909&mkt=en-us",
       "summary": "当地时间11月23日，纽约联储主席约翰·威廉姆斯（John Williams）表示，美联储需要循序渐进采取行动。 “我们必须采取循序渐进的措施，确保通胀率能够及时、持续地恢复到2%的目标水平。”威廉姆斯表示，美联储需要根据后续经济数据调整货币政策，显然，目前为止他们收到的数据显示，经济依然强劲，但通胀率仍然过高。 威廉姆斯认为，过去一年半以来，高通胀主要由以下三个因素驱动：首先是进口商品关税提高； ...",
       "published_raw": "Tue, 24 Nov 2026 01:43:00 GMT",
       "source": "BingNews",
@@ -233,8 +224,17 @@
       "score": 12
     },
     {
+      "title": "今夜！美联储，加息大消息！",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611253939871667.html&c=13354840964992559680&mkt=en-us",
+      "summary": "剔除食品和能源价格后，核心PCE同比上涨3.3%。这一数字比市场预期高出0.1个百分点，创下2023年以来的最高水平。这意味着，美联储政策制定者仍有望按照目前的政策路径，在下个月再次加息。 另一份报告还显示，美国第三季度经济增长明显强于此前预期。根据美国商务部修订后的估算，第三季度国内生产总值（GDP）按年化计算增长 4.3%。",
+      "published_raw": "Tue, 24 Nov 2026 15:59:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 11
+    },
+    {
       "title": "CPI与PPI“剪刀差”有所扩大 国家统计局回应",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063254866a453a80234b68b8ae8075&url=http%3a%2f%2fwww.ce.cn%2fxwzx%2fgnsz%2fgdxw%2f202610%2ft20261019_3263858.shtml&c=13974985597626649404&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ecc682451f9cf88a6851a84aa2&url=http%3a%2f%2fwww.ce.cn%2fxwzx%2fgnsz%2fgdxw%2f202610%2ft20261019_3263858.shtml&c=13974985597626649404&mkt=en-us",
       "summary": "中国经济网北京10月19日讯（记者 杨淼）10月19日，国新办就2026年前三季度国民经济运行情况举行新闻发布会。针对9月PPI涨幅扩大、上游成本向下游传导、制造业企业盈利等市场关切，国家统计局新闻发言人、国民经济综合统计司负责人王冠华在会上作出回应。",
       "published_raw": "Mon, 19 Oct 2026 07:44:00 GMT",
       "source": "BingNews",
@@ -243,7 +243,7 @@
     },
     {
       "title": "外媒称中国经济再现积极迹象：4月PPI数据抢眼",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063254866a453a80234b68b8ae8075&url=https%3a%2f%2fnews.ifeng.com%2fc%2f7fcwJyXRlGm&c=13245344728293418431&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ecc682451f9cf88a6851a84aa2&url=https%3a%2f%2fnews.ifeng.com%2fc%2f7fcwJyXRlGm&c=13245344728293418431&mkt=en-us",
       "summary": "核心提示：今年3月经济数据走强使人们认为中国经济将探底回升。但迄今为止喜忧参半的4月数据以及不断攀升的负债水平，让各方怀疑任何复苏是否能经事实证明具有可持续性。 参考消息网5月11日报道 外媒称，中国5月10日公布的官方数据显示，4月工业生产者 ...",
       "published_raw": "Wed, 11 May 2016 02:38:00 GMT",
       "source": "BingNews",
@@ -251,17 +251,8 @@
       "score": 10
     },
     {
-      "title": "8000亿元MLF+5000亿元7天期逆回购 央行组合操作呵护跨月流动性",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063255dec9426dae5ae417632c1d05&url=http%3a%2f%2fwww.ce.cn%2fxwzx%2fgnsz%2fgdxw%2f202611%2ft20261125_3304885.shtml&c=16553408095151503597&mkt=en-us",
-      "summary": "中国人民银行11月24日公告：11月25日将以固定数量、利率招标、多重价位中标方式开展8000亿元中期借贷便利（MLF）操作，期限为1年期；将以固定数量、利率招标、多重价位中标方式开展5000亿元7天期逆回购操作。业内专家认为，本次MLF搭配7天期逆回购的操作组合符合市场预期。 本次MLF操作为缩量续作，实现净回笼2000亿元。“11月，3个月期、6个月期买断式逆回购合计净回笼3000亿元，当月中 ...",
-      "published_raw": "Tue, 24 Nov 2026 09:26:00 GMT",
-      "source": "BingNews",
-      "topic": "宏观/物价",
-      "score": 10
-    },
-    {
       "title": "政策利率“换锚”迎来关键一步 央行：隔夜逆回购操作将于每个工作 ...",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063255dec9426dae5ae417632c1d05&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-10-31%2fdoc-inixaepa5112027.shtml&c=9441590231709585701&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ed13764fe0b30c98953b17a186&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-10-31%2fdoc-inixaepa5112027.shtml&c=9441590231709585701&mkt=en-us",
       "summary": "政策利率“换锚”迎来关键一步。中国人民银行10月30日发布公开市场业务公告称，为进一步优化短端利率调控机制，从2026年11月2日起，公开市场操作进行三项调整。 最后，原在7天期逆回购操作利率基础上加减点的其他工具，包括临时正/逆回购、境外央行类机构回购工具等，均调整为在隔夜逆回购操作利率基础上加减点，加减点幅度不变。",
       "published_raw": "Fri, 30 Oct 2026 22:45:00 GMT",
       "source": "BingNews",
@@ -269,37 +260,46 @@
       "score": 10
     },
     {
-      "title": "央行最新发布！今天，5000亿+8000亿",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063255dec9426dae5ae417632c1d05&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34551165&c=2136501112696600009&mkt=en-us",
-      "summary": "中国人民银行11月24日发布公告称，为保持银行体系流动性充裕，11月25日，央行将以固定数量、利率招标、多重价位中标方式开展5000亿元7天期逆回购操作；将以固定数量、利率招标、多重价位中标方式开展8000亿元MLF操作，期限为1年期。 央行将开展5000亿元7天期逆回购操作 据央行官网消息，为保持银行体系流动性充裕，2026年11月25日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展 ...",
-      "published_raw": "Tue, 24 Nov 2026 16:06:00 GMT",
+      "title": "MLF连续净回笼，7 天逆回购月末补位释放何种信号",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ed13764fe0b30c98953b17a186&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611253939483455.html&c=7768297216762551045&mkt=en-us",
+      "summary": "11月25日，中国人民银行以固定数量、利率招标、多重价位中标方式开展8000亿元MLF操作，期限为1年期。同日，央行开展5000亿元7天期逆回购操作。 当月MLF到期1万亿元，净回笼2000亿元，这已是MLF连续第二个月缩量续作、年内第四次净回笼。在公开市场隔夜回购利率成为主要政策利率、市场流动性整体偏松的背景下，跨月资金缺口更依赖短端投放予以对冲。央行“中长端缩量、短端补位” 的操作组合备受市场 ...",
+      "published_raw": "Tue, 24 Nov 2026 15:59:00 GMT",
       "source": "BingNews",
       "topic": "宏观/物价",
       "score": 10
     },
     {
-      "title": "央行出手！2000亿元买断式逆回购来了",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b063255dec9426dae5ae417632c1d05&url=https%3a%2f%2fwww.sohu.com%2fa%2f1101219607_122014422&c=14815647285740317148&mkt=en-us",
-      "summary": "11月13日，中国人民银行发布公开市场买断式逆回购招标公告称，为保持银行体系流动性充裕，2026年11月16日，将以固定数量、利率招标、多重价位中标方式开展2000亿元买断式逆回购操作，期限为6个月（180天），到期日为2027年5月15日（遇节假日顺延）。 由于本月有3000亿元6个月期买断式逆回购到期，11月16日操作后将净回笼1000亿元。同时，由于本月3个月期买断式逆回购已缩量2000亿元 ...",
-      "published_raw": "Fri, 13 Nov 2026 11:55:00 GMT",
+      "title": "8000亿元MLF+5000亿元7天期逆回购 央行组合操作呵护跨月流动性",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ed13764fe0b30c98953b17a186&url=http%3a%2f%2fwww.ce.cn%2fxwzx%2fgnsz%2fgdxw%2f202611%2ft20261125_3304885.shtml&c=16553408095151503597&mkt=en-us",
+      "summary": "中国人民银行11月24日公告：11月25日将以固定数量、利率招标、多重价位中标方式开展8000亿元中期借贷便利（MLF）操作，期限为1年期；将以固定数量、利率招标、多重价位中标方式开展5000亿元7天期逆回购操作。业内专家认为，本次MLF搭配7天期逆回购的操作组合符合市场预期。 本次MLF操作为缩量续作，实现净回笼2000亿元。“11月，3个月期、6个月期买断式逆回购合计净回笼3000亿元，当月中 ...",
+      "published_raw": "Tue, 24 Nov 2026 23:27:00 GMT",
       "source": "BingNews",
       "topic": "宏观/物价",
       "score": 10
     },
     {
-      "title": "美国CPI通胀再抬头，美联储加息押注升温，金银短线跳水！-市场参考 - 金十数据",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6TldUcHhpVzJkRFhJNURRR3dIdjZHbTYwNUlPclYtQUdQZmd3WDZsWFB5b0hfZ2hyWGxpbVo4TGNhc1VITURkUEd6OHNnS1U?oc=5",
-      "summary": "美国CPI通胀再抬头，美联储加息押注升温，金银短线跳水！-市场参考 金十数据",
-      "published_raw": "Sat, 21 Nov 2026 02:22:33 GMT",
-      "source": "GoogleNews",
+      "title": "央行11月2日起优化短端利率调控机制，隔夜逆回购每个工作日招标 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ed13764fe0b30c98953b17a186&url=https%3a%2f%2fwww.sohu.com%2fa%2f1095288198_114984&c=4887585361034973213&mkt=en-us",
+      "summary": "中国人民银行10月30日发布公开市场业务公告，自2026年11月2日起优化短端利率调控机制：每个工作日开展隔夜逆回购操作招标，采用固定利率、数量招标，目前利率1.25%；7天期逆回购将退居次要位置。",
+      "published_raw": "Sat, 31 Oct 2026 01:35:00 GMT",
+      "source": "BingNews",
       "topic": "宏观/物价",
       "score": 10
     },
     {
-      "title": "“鹰风”席卷美联储！美国通胀阴霾挥之不去 又一官员呼吁渐进加息",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0632583b2a42e5925e85ff18b1b4c3&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202611113928220326.html&c=8489249376297956161&mkt=en-us",
-      "summary": "费城联储主席安娜·保尔森周二表示，随着美联储致力于降低居高不下的通胀水平，未来还将有更多的加息动作。 保尔森在为宾夕法尼亚州一次活动所准备的演讲稿中指出，货币政策“进一步逐步收紧似乎是适宜的”。 “具体的路径将取决于形势的演变，我会密切关注相关数据，”保尔森表示。她指出，所谓的“渐进式”加息既能让经济有时间去适应更高的借贷成本，同时也让美联储官员有空间评估各项政策选择所带来的影响。 “我仍然认为， ...",
-      "published_raw": "Wed, 11 Nov 2026 02:04:00 GMT",
+      "title": "复旦大学经济学院教授沈国兵：人民币升值未必是坏事，传统“汇率 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783ee7df046f196bf11774b92236e&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-01-05%2fdoc-inhffmxt2155844.shtml&c=8691330273218016306&mkt=en-us",
+      "summary": "2025年12月30日，复旦大学经济学院举办了“南土国际金融政策圆桌会第8期”，同时也是“如何看待当前宏观金融形势系列”的首场活动。本次圆桌会聚焦“当前人民币汇率走势”，与会学者围绕美元周期波动、关税博弈以及资本流动等多重因素，系统分析了 ...",
+      "published_raw": "Mon, 05 Jan 2026 02:12:00 GMT",
+      "source": "BingNews",
+      "topic": "宏观/物价",
+      "score": 10
+    },
+    {
+      "title": "美联储“三把手”威廉姆斯：通胀仍然过高，不排除必要时连续加息",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0783f05c9b4e119d61ed833b43ee87&url=https%3a%2f%2fnews.ifeng.com%2fc%2f8yLayBQwnw1&c=11121180244328453112&mkt=en-us",
+      "summary": "美东时间11月23日，纽约联邦储备银行行长约翰·威廉姆斯（John Williams）在纽约布朗克斯芒特圣文森特大学发表题为《经济混音》的讲话。作为FOMC（联邦公开市场委员会）副主席、拥有永久投票权的美联储“三号人物”，他表示美国经济依然强劲，但通胀仍持续过高，美联储在让通胀及时、持续回到2%目标方面“还有很多工作要做”，并不排除在必要时连续几次会议上加息。 威廉姆斯在讲稿中称：“让通胀回到2% ...",
+      "published_raw": "Wed, 25 Nov 2026 12:40:00 GMT",
       "source": "BingNews",
       "topic": "宏观/物价",
       "score": 10
